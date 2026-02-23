@@ -1,0 +1,1727 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "F-聚变能源概论",
+    "children": [
+      {
+        "id": "97761a9bf3cd3c94",
+        "topic": "F-1 能源问题",
+        "children": [
+          {
+            "id": "15d6637067e4afc3",
+            "topic": "F-1.1 传统化石能源"
+          },
+          {
+            "id": "2f8bdc332abc3e8e",
+            "topic": "F-1.2清洁能源",
+            "children": [
+              {
+                "id": "b548e37f55d08974",
+                "topic": "F-1.2.1 水能"
+              },
+              {
+                "id": "daf75f93d4bce423",
+                "topic": "F-1.2.2 风能"
+              },
+              {
+                "id": "2f82c8ee310868bd",
+                "topic": "F-1.2.3 太阳能"
+              },
+              {
+                "id": "b4dcfe2cebc37a82",
+                "topic": "F-1.2.4 核能",
+                "children": [
+                  {
+                    "id": "6a3e2c944c6b238f",
+                    "topic": "F-1.2.4.1 裂变能源"
+                  },
+                  {
+                    "id": "32219390ba4675ea",
+                    "topic": "F-1.2.4.2 聚变能源",
+                    "children": [
+                      {
+                        "id": "486923b1efdc594a",
+                        "topic": "可行性"
+                      },
+                      {
+                        "id": "34f5877ebc46b99a",
+                        "topic": "经济性"
+                      },
+                      {
+                        "id": "d44fc799d849e30a",
+                        "topic": "大科学工程",
+                        "children": [
+                          {
+                            "id": "a3413daf421566e6",
+                            "topic": "国际合作"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "b4cd2b0a39ab2e99",
+                        "topic": "各国政策"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "direction": 0
+      },
+      {
+        "id": "588648aa564f6f9c",
+        "topic": "F-2 热核聚变",
+        "children": [
+          {
+            "id": "613a2a39d03e3a53",
+            "topic": "F-2.1 基础物理",
+            "children": [
+              {
+                "id": "447350c5573f1d04",
+                "topic": "F-2.1.1 强相互作用【2】Chp 2.5",
+                "children": [
+                  {
+                    "id": "9665f979f19a18b5",
+                    "topic": "F-2.1.1.1 聚变反应条件",
+                    "children": [
+                      {
+                        "id": "db2b84dffa9de835",
+                        "topic": "库仑势垒【2】Chp 3.4.2",
+                        "children": [
+                          {
+                            "id": "e023b6f80dc493c2",
+                            "topic": "量子隧穿效应【1】",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "b9db5520358effc4",
+                        "topic": "反应率系数<σv>",
+                        "children": [
+                          {
+                            "id": "d42c6f7fb57b0a2b",
+                            "topic": "反应率R=n'*n*σv【2】Chp 3.3.1",
+                            "children": []
+                          },
+                          {
+                            "id": "5812b0744b450546",
+                            "topic": "反应率系数σv【2】Chp 3.3.2",
+                            "children": [
+                              {
+                                "id": "82b0269112965a29",
+                                "topic": "<σv>：对分布函数加权平均的反应率系数[m^3/s]",
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-反应率系数.png",
+                                  "width": 235,
+                                  "height": 32
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "c3966f96e670d383",
+                            "topic": "主要反应的反应截面与反应率系数【2】Chp 3.4.2",
+                            "children": [],
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/聚变反应截面.png",
+                              "width": 439,
+                              "height": 229
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5fe6220eacd927b1",
+                    "topic": "F-2.1.1.2 聚变反应种类",
+                    "children": [
+                      {
+                        "id": "7f1aa91963a72123",
+                        "topic": "恒星聚变反应【6】Chp 3.2",
+                        "children": [
+                          {
+                            "id": "f730bbbb4d51da6e",
+                            "topic": "ppI",
+                            "children": [
+                              {
+                                "id": "8b1f913862bbdf2c",
+                                "topic": "(a) p + p → D + (e^+) + 𝜈_𝑒"
+                              },
+                              {
+                                "id": "59bd70b8fa340897",
+                                "topic": "(b) D + p → He3 + 𝛾"
+                              },
+                              {
+                                "id": "0827bf3d6e823da2",
+                                "topic": "(c) He3 + He3 → α + 2p"
+                              },
+                              {
+                                "id": "4aad04683c53451e",
+                                "topic": "4p → α + 2(e^+) + 2𝜈_𝑒 + 26.7 MeV"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "dd1870381a7c30c6",
+                            "topic": "ppII",
+                            "children": [
+                              {
+                                "id": "a0feebdee5871681",
+                                "topic": "(a) He3 + α → Be7 + 𝛾"
+                              },
+                              {
+                                "id": "e9698100b8f89d6e",
+                                "topic": "(b) Be7 + e → Li7 + 𝜈_𝑒"
+                              },
+                              {
+                                "id": "9d5f580cefac42c2",
+                                "topic": "(c) Li7 + p → 2α"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "10faf49ca2971643",
+                            "topic": "ppIII",
+                            "children": [
+                              {
+                                "id": "80e7acb7d74fb385",
+                                "topic": "(a) Be7 + p → B8 + 𝛾"
+                              },
+                              {
+                                "id": "5b158c1f2cb3e110",
+                                "topic": "(b) B8 → Be8* + (e^+) + 𝜈_𝑒"
+                              },
+                              {
+                                "id": "2a37bf6b14232ab0",
+                                "topic": "(c) Be8* → 2α"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "573e6db5481fbe6a",
+                            "topic": "CNO循环"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "09816e4a905d9e0e",
+                        "topic": "p反应【8】Chp 6.5",
+                        "children": [
+                          {
+                            "id": "d25807671246c202",
+                            "topic": "p-Li6",
+                            "children": [
+                              {
+                                "id": "f3c56e22a3b49778",
+                                "topic": "p + Li6 → α + He3 + 4.022 MeV"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "bed3f96467a83a64",
+                            "topic": "p-Be9",
+                            "children": [
+                              {
+                                "id": "73c03547344d3cc0",
+                                "topic": "p + Be9 → α + Li6 + 2.125 MeV"
+                              },
+                              {
+                                "id": "fa267f5248a94d34",
+                                "topic": "p + Be9 → 2α + D + 0.652 MeV"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "8c3d826b58b9acdd",
+                            "topic": "p-B11",
+                            "children": [
+                              {
+                                "id": "accbd17abcc722c1",
+                                "topic": "p + B11 → 3α + 8.664 MeV"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "f23d37c9b0bff0ce",
+                        "topic": "D反应【2】Chp 2.4.2",
+                        "children": [
+                          {
+                            "id": "3adeb0a5afd3c711",
+                            "topic": "D-T反应",
+                            "children": [
+                              {
+                                "id": "04040e3b35513e33",
+                                "topic": "D + T → α + n + 17.6 MeV"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "2b8809b8d0bf0748",
+                            "topic": "D-D反应",
+                            "children": [
+                              {
+                                "id": "066aecd80da888f5",
+                                "topic": "D + D → He3 + n + 3.267 MeV"
+                              },
+                              {
+                                "id": "713c1cf10003be41",
+                                "topic": "D + D → p + T + 4.032 MeV"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "28c0a7a2e7af08c7",
+                            "topic": "D-He3反应",
+                            "children": [
+                              {
+                                "id": "5af5a942ca0332ea",
+                                "topic": "D + He3 → α + p + 18.3 MeV"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "8f0cd593ffe77346",
+                        "topic": "n反应",
+                        "children": [
+                          {
+                            "id": "0805a21ebb05da3c",
+                            "topic": "轻核聚变【2】Chp 2.4.1"
+                          },
+                          {
+                            "id": "f0f2c0d9215d1ccf",
+                            "topic": "氚增殖【2】Chp 2.4.2",
+                            "children": [
+                              {
+                                "id": "fa86367669248303",
+                                "topic": "n（热）+ Li6 → α + T + 4.78 MeV"
+                              },
+                              {
+                                "id": "60173d3041e1f89b",
+                                "topic": "n（快）+ Li7 → α + T + n - 2.47 MeV"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "3fbd70916d546d25",
+                        "topic": "重核反应【6】Chp 3.2"
+                      }
+                    ]
+                  }
+                ],
+                "image": {
+                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/比结合能曲线.png",
+                  "width": 505,
+                  "height": 367
+                }
+              },
+              {
+                "id": "65f68997a71acbd6",
+                "topic": "F-2.1.2 库仑相互作用",
+                "children": [
+                  {
+                    "id": "2cd90adbeb25f450",
+                    "topic": "核间库仑散射",
+                    "image": {
+                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/库仑散射截面.png",
+                      "width": 206,
+                      "height": 179
+                    }
+                  },
+                  {
+                    "id": "a07d23fd3a7caa31",
+                    "topic": "核与电子库仑碰撞（轫致辐射）【2】Chp 3.5.3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "3a643ec5342f5836",
+            "topic": "F-2.2 功率平衡【2】Chp 4",
+            "children": [
+              {
+                "id": "3d137105f70ba80d",
+                "topic": "F-2.2.1 体系功率",
+                "children": [
+                  {
+                    "id": "e0ea82c963323d43",
+                    "topic": "F-2.2.1.1 体系功率增益",
+                    "children": [
+                      {
+                        "id": "e45cb2fc1a85479c",
+                        "topic": "聚变反应功率密度【2】Chp 3.3.2",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-聚变反应功率密度.png",
+                          "width": 231,
+                          "height": 69
+                        }
+                      },
+                      {
+                        "id": "9f3f905a3051d4e8",
+                        "topic": "辅助功率注入【2】Chp 4.4"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "c625ba6d3db6aa19",
+                    "topic": "F-2.2.1.2 体系功率损失",
+                    "children": [
+                      {
+                        "id": "6f4b643836550587",
+                        "topic": "传导损失",
+                        "children": [
+                          {
+                            "id": "641e81f0779707f3",
+                            "topic": "热传导功率密度【2】Chp 4.4",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-热传导功率密度.png",
+                              "width": 231,
+                              "height": 68
+                            }
+                          },
+                          {
+                            "id": "584a81867a590c47",
+                            "topic": "能量约束时间 τE【2】Chp 4.4",
+                            "children": [
+                              {
+                                "id": "4477ab4a1e500841",
+                                "topic": "L模【4】Chp 4.12",
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-L模定标率.png",
+                                  "width": 231,
+                                  "height": 47
+                                }
+                              },
+                              {
+                                "id": "97523d963f84fe28",
+                                "topic": "H模【4】Chp 4.12",
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-H模定标率.png",
+                                  "width": 231,
+                                  "height": 45
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "82d4457195f3cf83",
+                        "topic": "辐射损失",
+                        "children": [
+                          {
+                            "id": "c5dd55b7603961c0",
+                            "topic": "韧致辐射功率密度【2】Chp 3.5.3",
+                            "children": [
+                              {
+                                "id": "3b9900d775c33fbe",
+                                "topic": "等效电荷【2】Chp 3.5.4",
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-等效电荷.png",
+                                  "width": 231,
+                                  "height": 44
+                                }
+                              }
+                            ],
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-韧致辐射功率密度.png",
+                              "width": 237,
+                              "height": 35
+                            }
+                          },
+                          {
+                            "id": "8869d5990d51f43c",
+                            "topic": "回旋辐射功率密度【4】Chp 4.25",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-回旋辐射功率密度.png",
+                              "width": 228,
+                              "height": 61
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "5e7aa7b1f9a89707",
+                        "topic": "对流损失"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "a36a2d1351db2000",
+                "topic": "F-2.2.2 能量增益",
+                "children": [
+                  {
+                    "id": "a5ed898078efb584",
+                    "topic": "F-2.2.2.1 能量得失相当【2】Chp 4.5.2【4】Chp 1.5",
+                    "children": [
+                      {
+                        "id": "2ebc7a5b653206d3",
+                        "topic": "劳逊判据",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-劳逊判据.png",
+                          "width": 228,
+                          "height": 31
+                        },
+                        "children": [
+                          {
+                            "id": "c89bc41dc15f57ad",
+                            "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-劳逊判据2.png\" width=\"231\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "c2f3b0b2bce66a9a",
+                        "topic": "修正劳逊判据",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-修正劳逊判据.png",
+                          "width": 233,
+                          "height": 35
+                        },
+                        "children": [
+                          {
+                            "id": "c89bd122adb49dc7",
+                            "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-修正劳逊判据2.png\" width=\"231\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1c8367af097297ab",
+                    "topic": "F-2.2.2.2 点火条件【2】Chp 4.5.2",
+                    "children": [
+                      {
+                        "id": "2e08c406fa84c329",
+                        "topic": "工作温度下限【2】Chp 4.5.1",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/工作温度下限.png",
+                          "width": 419,
+                          "height": 206
+                        }
+                      },
+                      {
+                        "id": "e91b2dd4c8d156dc",
+                        "topic": "聚变三乘积",
+                        "children": [
+                          {
+                            "id": "f39a2cbd14214849",
+                            "topic": "点火条件【4】Chp 1.5"
+                          }
+                        ]
+                      }
+                    ],
+                    "image": {
+                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-点火条件.png",
+                      "width": 204,
+                      "height": 79
+                    }
+                  },
+                  {
+                    "id": "b76b3ef325666815",
+                    "topic": "智能体：劳逊判据（Lawson Criterion）"
+                  },
+                  {
+                    "id": "d4d04d8ba6d7b6c4",
+                    "topic": "F-2.2.2.3 物理增益因子【2】Chp 4.6.1",
+                    "image": {
+                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-物理增益因子.png",
+                      "width": 234,
+                      "height": 41
+                    }
+                  },
+                  {
+                    "id": "1d2c1a804c6e4469",
+                    "topic": "F-2.2.2.4 工程增益因子【2】Chp 4.6.2",
+                    "image": {
+                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-工程增益因子.png",
+                      "width": 168,
+                      "height": 106
+                    }
+                  },
+                  {
+                    "id": "69ec86579ac7e723",
+                    "topic": "智能体：能量增益因子（Energy Gain）"
+                  }
+                ]
+              },
+              {
+                "id": "311eb9e7ee2bef6b",
+                "topic": "F-2.2.3 热稳定性【2】Chp 4.7",
+                "children": [
+                  {
+                    "id": "c4ec061fb0425a44",
+                    "topic": "最低加热功率【2】Chp 4.7.3",
+                    "image": {
+                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/最低加热功率.png",
+                      "width": 427,
+                      "height": 253
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "direction": 0
+      },
+      {
+        "id": "8f763d097970877e",
+        "topic": "F-3 等离子体物理",
+        "children": [
+          {
+            "id": "3970f4bf42ca1c60",
+            "topic": "F-3.1 等离子体基础物理",
+            "children": [
+              {
+                "id": "82b3d5be3aa7eac8",
+                "topic": "F-3.1.1 基本概念",
+                "children": [
+                  {
+                    "id": "015e0842abc71976",
+                    "topic": "准中性与集体行为【3】Chp 1.1&1.2"
+                  },
+                  {
+                    "id": "70a237a1d1ece591",
+                    "topic": "静电屏蔽",
+                    "children": [
+                      {
+                        "id": "63605187c6cb92d5",
+                        "topic": "德拜长度【3】Chp 1.4",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-德拜长度.png",
+                          "width": 198,
+                          "height": 106
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "f99297816934841c",
+                    "topic": "等离子体振荡频率【3】Chp 4.3",
+                    "image": {
+                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-等离子体振荡频率.png",
+                      "width": 208,
+                      "height": 107
+                    }
+                  },
+                  {
+                    "id": "ad89663adf371afa",
+                    "topic": "等离子体参数【3】Chp 1.5",
+                    "image": {
+                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-等离子体参数.png",
+                      "width": 220,
+                      "height": 55
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "a5b3a207b908a92b",
+                "topic": "F-3.1.2 单粒子运动",
+                "children": [
+                  {
+                    "id": "bdda1119be34b062",
+                    "topic": "垂直磁场运动",
+                    "children": [
+                      {
+                        "id": "2fa1338f1d22dd9e",
+                        "topic": "回旋运动",
+                        "children": [
+                          {
+                            "id": "865cf79e6b8763a7",
+                            "topic": "拉莫尔半径【3】Chp 2.2.1",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-拉莫尔半径.png",
+                              "width": 201,
+                              "height": 100
+                            }
+                          },
+                          {
+                            "id": "65a9e793e9d85fbe",
+                            "topic": "回旋频率【3】Chp 2.2.1",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-回旋频率.png",
+                              "width": 172,
+                              "height": 97
+                            }
+                          },
+                          {
+                            "id": "ce062c1696407e0e",
+                            "topic": "（绝热不变量）磁矩【3】Chp 2.3.3, 2.8.1",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-磁矩.png",
+                              "width": 226,
+                              "height": 55
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "a1a9a7a31bdb2f59",
+                        "topic": "导心漂移",
+                        "children": [
+                          {
+                            "id": "ed180a83809b8a74",
+                            "topic": "E×B漂移【3】Chp 2.2.2",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-ExB漂移.png",
+                              "width": 219,
+                              "height": 74
+                            }
+                          },
+                          {
+                            "id": "778f2043c3398c0a",
+                            "topic": "重力场漂移【3】Chp 2.2.3",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-重力漂移.png",
+                              "width": 218,
+                              "height": 82
+                            }
+                          },
+                          {
+                            "id": "421ece0c4380a3ea",
+                            "topic": "极化漂移【3】Chp 2.5",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-极化漂移.png",
+                              "width": 226,
+                              "height": 80
+                            }
+                          },
+                          {
+                            "id": "e71662497b70d59e",
+                            "topic": "磁场梯度漂移【3】Chp 2.3.1",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-磁场梯度漂移.png",
+                              "width": 228,
+                              "height": 61
+                            }
+                          },
+                          {
+                            "id": "ade7cff6ae598dd2",
+                            "topic": "磁场曲率漂移【3】Chp 2.3.2",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-磁场曲率漂移.png",
+                              "width": 220,
+                              "height": 66
+                            }
+                          },
+                          {
+                            "id": "58a8ffa1b8da8ee6",
+                            "topic": "智能体：磁化等离子体（Magnetized Plasma）"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "9e5e59943c02628b",
+                    "topic": "平行磁场运动"
+                  },
+                  {
+                    "id": "dca1203cdbb6edcb",
+                    "topic": "带电粒子库仑碰撞",
+                    "children": [
+                      {
+                        "id": "60993d4c81f17367",
+                        "topic": "碰撞频率【2】Chp 9【3】Chp 5.1.1",
+                        "children": [
+                          {
+                            "id": "bdbda00bafaf83d5",
+                            "topic": "内部热平衡【2】Chp 9.3.4",
+                            "children": [
+                              {
+                                "id": "3f4760d99293d20b",
+                                "topic": "电子-电子",
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-碰撞频率电子-电子.png",
+                                  "width": 231,
+                                  "height": 55
+                                }
+                              },
+                              {
+                                "id": "36129f153f26d4a9",
+                                "topic": "电子-离子",
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-碰撞频率电子-离子.png",
+                                  "width": 225,
+                                  "height": 53
+                                }
+                              },
+                              {
+                                "id": "d8dc04334c596118",
+                                "topic": "离子-离子",
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-碰撞频率离子-离子.png",
+                                  "width": 219,
+                                  "height": 60
+                                }
+                              },
+                              {
+                                "id": "7fc5eb4adb8d86c6",
+                                "topic": "离子-电子",
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-碰撞频率离子-电子.png",
+                                  "width": 234,
+                                  "height": 58
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "e4eb2b801a4568fd",
+                            "topic": "高能粒子束流【2】Chp 9.5",
+                            "children": [
+                              {
+                                "id": "bd4c23292feefda4",
+                                "topic": "高能粒子-电子",
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-碰撞频率高能粒子-电子.png",
+                                  "width": 245,
+                                  "height": 53
+                                }
+                              },
+                              {
+                                "id": "8b6d4585958654e5",
+                                "topic": "高能粒子-离子",
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-碰撞频率高能粒子-离子.png",
+                                  "width": 200,
+                                  "height": 67
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "e19c93f2427f2ac9",
+                        "topic": "电阻率【3】Chp 5.6.1",
+                        "children": [
+                          {
+                            "id": "04905200bd9cfa92",
+                            "topic": "平行磁场方向【3】Chp 5.6.2",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-电阻率平行方向.png",
+                              "width": 206,
+                              "height": 58
+                            }
+                          },
+                          {
+                            "id": "e901f36eac0c3e20",
+                            "topic": "库仑对数【3】Chp 5.6.2",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-库仑对数.png",
+                              "width": 137,
+                              "height": 37
+                            }
+                          },
+                          {
+                            "id": "a04f5937010e7834",
+                            "topic": "垂直磁场方向【3】Chp 5.6.4",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-电阻率垂直方向.png",
+                              "width": 114,
+                              "height": 44
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "e533e7e5a233e2ae",
+                        "topic": "智能体：等离子体电阻率（Plasma Resistivity）"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "97f0874e05a273c0",
+                "topic": "F-3.1.3 磁流体力学",
+                "children": [
+                  {
+                    "id": "d6bb7025f9347c0b",
+                    "topic": "方程组",
+                    "children": [
+                      {
+                        "id": "8f71521952b29de8",
+                        "topic": "连续性方程【3】Chp 3.3.5",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-连续性方程.png",
+                          "width": 158,
+                          "height": 44
+                        }
+                      },
+                      {
+                        "id": "b096e0cfc2a87d5e",
+                        "topic": "动量守恒方程【3】Chp 3.3.4",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-动量守恒方程.png",
+                          "width": 209,
+                          "height": 35
+                        }
+                      },
+                      {
+                        "id": "d2f256da69008291",
+                        "topic": "广义欧姆定律【3】Chp 5.7",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-广义欧姆定律.png",
+                          "width": 305,
+                          "height": 40
+                        }
+                      },
+                      {
+                        "id": "05cf337eea18616c",
+                        "topic": "能量守恒方程/状态方程【3】Chp 3.3.6",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-能量方程.png",
+                          "width": 68,
+                          "height": 28
+                        }
+                      },
+                      {
+                        "id": "3c9681fe5f9016ea",
+                        "topic": "麦克斯韦方程组【3】Chp 3.2.1",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-麦克斯韦方程组.png",
+                          "width": 132,
+                          "height": 206
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "3cdd1159e498740d",
+                    "topic": "磁流体平衡【3】Chp 6.2"
+                  },
+                  {
+                    "id": "3bff932cdbe7c939",
+                    "topic": "宏观不稳定性【3】Chp 6.5-6.9"
+                  },
+                  {
+                    "id": "a5b5fdd05b67c68e",
+                    "topic": "约束与输运【2】Chp 14"
+                  }
+                ]
+              },
+              {
+                "id": "99c2e1dae2184646",
+                "topic": "F-3.1.4 动理论【3】Chp 7",
+                "children": [
+                  {
+                    "id": "5c53a94063fc7fa1",
+                    "topic": "波-粒子共振【3】Chp 7.5",
+                    "children": [
+                      {
+                        "id": "ee4db803b8d8d3b0",
+                        "topic": "平行磁场方向（朗道阻尼）【3】Chp 7.4",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-朗道阻尼.png",
+                          "width": 114,
+                          "height": 28
+                        }
+                      },
+                      {
+                        "id": "a07ad780673aeb7e",
+                        "topic": "垂直磁场方向（回旋阻尼）【3】Chp 7.10.2",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-回旋阻尼.png",
+                          "width": 145,
+                          "height": 27
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "e8b2efa3e76c61b3",
+                    "topic": "微观不稳定性【3】Chp 6.5.4【5】"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "00a40208d0afd40e",
+            "topic": "F-3.2 等离子体约束方式",
+            "children": [
+              {
+                "id": "56b9538a7803dc14",
+                "topic": "F-3.2.1 引力约束聚变",
+                "children": [
+                  {
+                    "id": "182cafedfe229fef",
+                    "topic": "引力与热压力、电子简并压平衡"
+                  }
+                ]
+              },
+              {
+                "id": "4f04ae20b2593d5b",
+                "topic": "F-3.2.2 磁约束聚变 MCF",
+                "children": [
+                  {
+                    "id": "b14906db98374627",
+                    "topic": "F-3.2.2.1 基本性质",
+                    "children": [
+                      {
+                        "id": "fc7ab1544840cbec",
+                        "topic": "比压【3】Chp 6.3",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-比压.png",
+                          "width": 127,
+                          "height": 54
+                        }
+                      },
+                      {
+                        "id": "4c3c731d5d963932",
+                        "topic": "磁流体平衡【2】Chp 11",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-磁流体平衡.png",
+                          "width": 140,
+                          "height": 45
+                        }
+                      },
+                      {
+                        "id": "276de6b25a7ccfc3",
+                        "topic": "不稳定性【2】Chp 12"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "bbc09c57590086e9",
+                    "topic": "F-3.2.2.2 开放位形",
+                    "children": [
+                      {
+                        "id": "1688c2ea4b0a1d93",
+                        "topic": "磁镜【3】Chp 2.3.3",
+                        "children": [
+                          {
+                            "id": "db5e5df7d5773ef1",
+                            "topic": "磁镜比【3】Chp 2.3.3",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-磁镜比.png",
+                              "width": 154,
+                              "height": 34
+                            }
+                          },
+                          {
+                            "id": "766f1ea024553367",
+                            "topic": "损失锥【3】Chp 2.3.3",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-损失锥.png",
+                              "width": 106,
+                              "height": 27
+                            }
+                          }
+                        ],
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/磁镜.png",
+                          "width": 252,
+                          "height": 131
+                        }
+                      },
+                      {
+                        "id": "5c313720010cbc56",
+                        "topic": "最小场/会切场【3】Chp 2.8.1"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "0e1b9af78ac8332b",
+                    "topic": "F-3.2.2.3 箍缩位形",
+                    "children": [
+                      {
+                        "id": "bb4cb0cd1623414c",
+                        "topic": "直线箍缩",
+                        "children": [
+                          {
+                            "id": "589a5adfa231c904",
+                            "topic": "θ箍缩【2】Chp 12.6",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/θ箍缩.png",
+                              "width": 262,
+                              "height": 155
+                            }
+                          },
+                          {
+                            "id": "b3ccece1409d0e57",
+                            "topic": "Z箍缩【2】Chp 12.7",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/Z箍缩.png",
+                              "width": 241,
+                              "height": 156
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "63fd0787fa656511",
+                        "topic": "环形箍缩",
+                        "children": [
+                          {
+                            "id": "c98cd8c9ea8cedc7",
+                            "topic": "螺旋箍缩【2】Chp 12.8"
+                          },
+                          {
+                            "id": "5cc257382227abc5",
+                            "topic": "反场箍缩【2】Chp 13.5",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/反场箍缩.png",
+                              "width": 396,
+                              "height": 296
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "fb0eb87470ec8e4b",
+                    "topic": "F-3.2.2.4 环位形",
+                    "children": [
+                      {
+                        "id": "d49609df6a068aeb",
+                        "topic": "仿星器【2】Chp 13.8",
+                        "children": [
+                          {
+                            "id": "7cf9472e0d86dea2",
+                            "topic": "8字形仿星器",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/8字形仿星器.png",
+                              "width": 264,
+                              "height": 130
+                            }
+                          },
+                          {
+                            "id": "108ab054cb92a011",
+                            "topic": "标准仿星器"
+                          },
+                          {
+                            "id": "05fad409e0702a05",
+                            "topic": "扭曲器"
+                          },
+                          {
+                            "id": "f54e7dd32130f3dc",
+                            "topic": "螺旋磁轴装置"
+                          },
+                          {
+                            "id": "bb9c0a0d498b29b5",
+                            "topic": "模块化仿星器",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/模块化仿星器.png",
+                              "width": 452,
+                              "height": 269
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "d0c8d62c0eae1f83",
+                        "topic": "托卡马克【2】Chp 13.7【4】",
+                        "children": [
+                          {
+                            "id": "be7040cd8c144bda",
+                            "topic": "基本结构【2】Chp 13.7.1",
+                            "children": [
+                              {
+                                "id": "0d32799c25fc02dc",
+                                "topic": "环形真空室",
+                                "children": [
+                                  {
+                                    "id": "a7541eaccf56769b",
+                                    "topic": "环径比 A=R/a"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "d56b59cd0019c2f9",
+                                "topic": "磁场线圈",
+                                "children": [
+                                  {
+                                    "id": "ea2dbcb94166fd58",
+                                    "topic": "环向场线圈"
+                                  },
+                                  {
+                                    "id": "017b127aa9bcc3d9",
+                                    "topic": "欧姆场线圈"
+                                  },
+                                  {
+                                    "id": "e55de0c0b7ae351f",
+                                    "topic": "外极向场线圈"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "57d58bfad2f7ca7d",
+                            "topic": "等离子体稳定性【2】Chp 13.7.3",
+                            "children": [
+                              {
+                                "id": "3b41e6bc4b2571ff",
+                                "topic": "安全因子 【2】Chp 13.7.2",
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-安全因子.png",
+                                  "width": 127,
+                                  "height": 40
+                                }
+                              },
+                              {
+                                "id": "378f613b2bea9dbe",
+                                "topic": "非圆形截面【2】Chp 13.7.4"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "1602dbd61e3e2475",
+                            "topic": "等离子体温度【3】Chp 1.3",
+                            "children": [
+                              {
+                                "id": "cce7abf688c9db20",
+                                "topic": "欧姆加热【4】Chp 5.2"
+                              },
+                              {
+                                "id": "d42ec40a6f54f7e4",
+                                "topic": "辅助加热",
+                                "children": [
+                                  {
+                                    "id": "338505d5bff83e39",
+                                    "topic": "波加热【4】Chp 5.6"
+                                  },
+                                  {
+                                    "id": "879aca0595661e0f",
+                                    "topic": "中性束加热【4】Chp 5.4"
+                                  },
+                                  {
+                                    "id": "b7514f27306ba87f",
+                                    "topic": "磁压缩加热"
+                                  }
+                                ]
+                              }
+                            ],
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/等离子体温度.png",
+                              "width": 316,
+                              "height": 207
+                            }
+                          },
+                          {
+                            "id": "26b491afad83ab82",
+                            "topic": "等离子体电流驱动【4】Chp 3.14"
+                          },
+                          {
+                            "id": "02c53c14bfaac091",
+                            "topic": "等离子体密度【3】Chp 1.1",
+                            "children": [
+                              {
+                                "id": "6a9be7bb1aaec1cc",
+                                "topic": "密度极限【4】Chp 7.8",
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-密度极限.png",
+                                  "width": 132,
+                                  "height": 68
+                                }
+                              },
+                              {
+                                "id": "5a23dae6f662b1c9",
+                                "topic": "比压极限【4】Chp 6.18",
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-比压极限.png",
+                                  "width": 165,
+                                  "height": 69
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "892973c310f5cf7e",
+                            "topic": "能量约束时间",
+                            "children": [
+                              {
+                                "id": "33c2a9322167e798",
+                                "topic": "经典输运【4】Chp 4.1",
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-经典输运.png",
+                                  "width": 197,
+                                  "height": 73
+                                }
+                              },
+                              {
+                                "id": "58f13b8cbb73dbed",
+                                "topic": "新经典输运【4】Chp 4.16",
+                                "children": [
+                                  {
+                                    "id": "1f2020a2dfe2691e",
+                                    "topic": "俘获粒子【4】Chp 4.6",
+                                    "image": {
+                                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-俘获粒子份额.png",
+                                      "width": 131,
+                                      "height": 90
+                                    }
+                                  },
+                                  {
+                                    "id": "21925647554be228",
+                                    "topic": "离子热输运",
+                                    "image": {
+                                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-离子热输运.png",
+                                      "width": 178,
+                                      "height": 48
+                                    }
+                                  }
+                                ],
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-新经典输运.png",
+                                  "width": 179,
+                                  "height": 23
+                                }
+                              },
+                              {
+                                "id": "1a22b57ae0fbc506",
+                                "topic": "反常输运【4】Chp 4.17",
+                                "children": [
+                                  {
+                                    "id": "fac5450e46d1bb9f",
+                                    "topic": "湍流输运【4】Chp 4.18"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "27ee484926f00dd4",
+                                "topic": "经验定标率（H模）【4】Chp 4.12",
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-H模经验定标率.png",
+                                  "width": 406,
+                                  "height": 35
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "6e23b03331a686c4",
+                            "topic": "规模与参数【2】Chp 5.5"
+                          }
+                        ],
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/托卡马克.png",
+                          "width": 305,
+                          "height": 236
+                        }
+                      },
+                      {
+                        "id": "b34c1baf783df754",
+                        "topic": "球形托卡马克（环径比A<2）【2】Chp 13.7.5",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/球形托卡马克.png",
+                          "width": 374,
+                          "height": 217
+                        }
+                      },
+                      {
+                        "id": "954637f6651ada62",
+                        "topic": "紧凑环",
+                        "children": [
+                          {
+                            "id": "45eeab32091526c5",
+                            "topic": "球马克【2】Chp 13.6",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/球马克.png",
+                              "width": 206,
+                              "height": 190
+                            }
+                          },
+                          {
+                            "id": "2c95967ed2c51956",
+                            "topic": "场反位形 FRC【2】Chp 13.3",
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/场反位形.png",
+                              "width": 280,
+                              "height": 197
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "0db432e3e9398960",
+                        "topic": "悬浮偶极场【2】Chp 13.2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "cae8e971a5f062d0",
+                "topic": "F-3.2.3 惯性约束聚变 ICF",
+                "children": [
+                  {
+                    "id": "52a12a134319d7df",
+                    "topic": "F-3.2.3.1 基本性质【6】Chp 7.1",
+                    "children": [
+                      {
+                        "id": "83831d94e393d4f4",
+                        "topic": "约束时间",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-惯性约束时间.png",
+                          "width": 116,
+                          "height": 74
+                        }
+                      },
+                      {
+                        "id": "074d3ec4856994bf",
+                        "topic": "劳逊判据"
+                      },
+                      {
+                        "id": "e18f2303a784b3c7",
+                        "topic": "点火",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-惯性点火条件.png",
+                          "width": 225,
+                          "height": 48
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ed14c0d8376fc8d3",
+                    "topic": "F-3.2.3.2 不可控约束",
+                    "children": [
+                      {
+                        "id": "2e38cd1ab7959a56",
+                        "topic": "氢弹"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "82efdcf433e86172",
+                    "topic": "F-3.2.3.3 可控约束【6】Chp 7.1",
+                    "children": [
+                      {
+                        "id": "21e04660dd4810bd",
+                        "topic": "激光聚变",
+                        "children": [
+                          {
+                            "id": "4a8335993fbf511b",
+                            "topic": "激光器"
+                          },
+                          {
+                            "id": "1b1fd38415de70d1",
+                            "topic": "不稳定性"
+                          },
+                          {
+                            "id": "71aaa71fe35c66f7",
+                            "topic": "点火方式【7】"
+                          }
+                        ],
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/激光聚变.png",
+                          "width": 333,
+                          "height": 147
+                        }
+                      },
+                      {
+                        "id": "49c188f30d0833ee",
+                        "topic": "Z箍缩聚变"
+                      },
+                      {
+                        "id": "1b928c238bd5efa7",
+                        "topic": "轻/重离子束聚变"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "d4dac6c7cedd4d16",
+                    "topic": "F-3.2.3.4 磁惯性聚变 MIF"
+                  }
+                ]
+              },
+              {
+                "id": "8f904c4a61042010",
+                "topic": "F-3.2.4 其他聚变尝试",
+                "children": [
+                  {
+                    "id": "c1e0de498e2d8c4f",
+                    "topic": "F-3.2.4.1 束靶反应"
+                  },
+                  {
+                    "id": "e1c3b5fe890b112d",
+                    "topic": "F-3.2.4.2 静电聚变"
+                  },
+                  {
+                    "id": "1c9f7a204ef74746",
+                    "topic": "F-3.2.4.3 冷聚变"
+                  },
+                  {
+                    "id": "1464ba8ec31665b2",
+                    "topic": "F-3.2.4.4 气泡聚变"
+                  },
+                  {
+                    "id": "f2bf84b545871f06",
+                    "topic": "F-3.2.4.5 μ子聚变【6】Chp 8.3"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      },
+      {
+        "id": "de4f3e75a50c5e07",
+        "topic": "F-4 聚变工程技术",
+        "children": [
+          {
+            "id": "fbd6335ceafec182",
+            "topic": "F-4.1 D-T聚变电站【2】Chp 5【4】Chp 1.7【8】Chp 14",
+            "children": [
+              {
+                "id": "a8f7d409ef9ac794",
+                "topic": "F-4.1.1 设计影响因素",
+                "children": [
+                  {
+                    "id": "3770840401eb95b3",
+                    "topic": "聚变反应【2】Chp 5.4.3",
+                    "children": [
+                      {
+                        "id": "1bc48a0922cc523f",
+                        "topic": "燃料"
+                      },
+                      {
+                        "id": "806e6b3a839b25c9",
+                        "topic": "产物"
+                      },
+                      {
+                        "id": "2c28de997cc6b86f",
+                        "topic": "放射性屏蔽"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "92083565027f1089",
+                    "topic": "约束方式"
+                  }
+                ]
+              },
+              {
+                "id": "eb01167cf77dd07e",
+                "topic": "F-4.1.2 堆芯层状结构",
+                "image": {
+                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/堆芯层状结构.png",
+                  "width": 244,
+                  "height": 135
+                }
+              },
+              {
+                "id": "67c3846da4ea99d9",
+                "topic": "F-4.1.3 第一壁",
+                "children": [
+                  {
+                    "id": "19c12ea589c016f6",
+                    "topic": "限制器"
+                  },
+                  {
+                    "id": "7fb58386784d4604",
+                    "topic": "材料",
+                    "children": [
+                      {
+                        "id": "168eda4140f88862",
+                        "topic": "碳"
+                      },
+                      {
+                        "id": "b4c46280983e91d0",
+                        "topic": "铍"
+                      },
+                      {
+                        "id": "3f7744c101effe20",
+                        "topic": "钨"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "dd0e062dbdd00e5e",
+                    "topic": "偏滤器"
+                  }
+                ]
+              },
+              {
+                "id": "3c8b94687e1b7c30",
+                "topic": "F-4.1.4 包层",
+                "children": [
+                  {
+                    "id": "51e29b2bbb17d74c",
+                    "topic": "结构【2】Chp 5.5.2",
+                    "children": [
+                      {
+                        "id": "1bc9cb702273d258",
+                        "topic": "中子倍增与慢化、氚增殖",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/中子慢化与增殖截面.png",
+                          "width": 224,
+                          "height": 166
+                        }
+                      },
+                      {
+                        "id": "197a605a83de5e9c",
+                        "topic": "冷却剂"
+                      },
+                      {
+                        "id": "d773f9f1a209d380",
+                        "topic": "屏蔽层"
+                      },
+                      {
+                        "id": "502c05864e5de295",
+                        "topic": "结构材料【2】Chp 5.4.2"
+                      },
+                      {
+                        "id": "3ccc530a240cd32e",
+                        "topic": "辐射屏蔽"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "64821791593ee270",
+                    "topic": "混合堆"
+                  }
+                ]
+              },
+              {
+                "id": "de43fa170cd5d28b",
+                "topic": "F-4.1.5 磁体【2】Chp 5.5.3",
+                "children": [
+                  {
+                    "id": "6b31f5d86cfbe8a6",
+                    "topic": "超导磁体【2】Chp 5.4.2"
+                  },
+                  {
+                    "id": "4f6b69c4f8e1b09b",
+                    "topic": "芯部磁场【2】Chp 5.5.3",
+                    "image": {
+                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-环向磁场.png",
+                      "width": 256,
+                      "height": 69
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "cfc0a01c0082393e",
+                "topic": "F-4.1.6 燃料循环",
+                "children": [
+                  {
+                    "id": "aceaf81211b91fee",
+                    "topic": "燃料生产",
+                    "children": [
+                      {
+                        "id": "e4922c656db271d9",
+                        "topic": "氚工厂【8】",
+                        "children": [
+                          {
+                            "id": "ed5136883cf8975d",
+                            "topic": "增殖比",
+                            "children": [
+                              {
+                                "id": "3baa0f5896d17a26",
+                                "topic": "燃烧率",
+                                "image": {
+                                  "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-燃烧率.png",
+                                  "width": 183,
+                                  "height": 59
+                                }
+                              }
+                            ],
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式-氚增殖比.png",
+                              "width": 165,
+                              "height": 57
+                            }
+                          },
+                          {
+                            "id": "c9c2df5fcfc62f26",
+                            "topic": "内循环"
+                          },
+                          {
+                            "id": "414115a4242f55cf",
+                            "topic": "外循环"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "2fcc9a6b47287cc5",
+                    "topic": "燃料注入"
+                  },
+                  {
+                    "id": "50143ff912443d7c",
+                    "topic": "废料排出"
+                  }
+                ]
+              },
+              {
+                "id": "1f1aaba2f6fbe311",
+                "topic": "F-4.1.7 重大挑战",
+                "children": [
+                  {
+                    "id": "657a933a1d6eca55",
+                    "topic": "燃烧等离子体的稳态运行"
+                  },
+                  {
+                    "id": "0939aa5f5aca92ed",
+                    "topic": "可以耐受高热通量和中子通量的材料研发"
+                  },
+                  {
+                    "id": "1abfe691f145663c",
+                    "topic": "氚燃料循环"
+                  }
+                ]
+              }
+            ],
+            "image": {
+              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/磁体位置.png",
+              "width": 195,
+              "height": 195
+            }
+          }
+        ],
+        "direction": 1
+      }
+    ]
+  },
+  "arrows": [],
+  "summaries": [],
+  "direction": 1,
+  "theme": {
+    "name": "Latte",
+    "type": "light",
+    "palette": [
+      "#dd7878",
+      "#ea76cb",
+      "#8839ef",
+      "#e64553",
+      "#fe640b",
+      "#df8e1d",
+      "#40a02b",
+      "#209fb5",
+      "#1e66f5",
+      "#7287fd"
+    ],
+    "cssVar": {
+      "--gap": "30px",
+      "--main-color": "#444446",
+      "--main-bgcolor": "#ffffff",
+      "--color": "#777777",
+      "--bgcolor": "#f6f6f6",
+      "--panel-color": "#444446",
+      "--panel-bgcolor": "#ffffff",
+      "--panel-border-color": "#eaeaea"
+    }
+  }
+}
