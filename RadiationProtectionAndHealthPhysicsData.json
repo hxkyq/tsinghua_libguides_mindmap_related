@@ -25,7 +25,7 @@
                         "children": [
                           {
                             "id": "70c03a6cd830bb5c",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       },
@@ -35,7 +35,7 @@
                         "children": [
                           {
                             "id": "6c2b8b34896c0794",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       },
@@ -45,7 +45,7 @@
                         "children": [
                           {
                             "id": "58ef2374db3e3674",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       }
@@ -61,7 +61,7 @@
                         "children": [
                           {
                             "id": "4c86be68a7fcfeef",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       },
@@ -71,7 +71,7 @@
                         "children": [
                           {
                             "id": "2e931b3d48a908ef",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       },
@@ -85,7 +85,12 @@
                             "children": [
                               {
                                 "id": "b7314f98c41a6bcf",
-                                "topic": "[1][2]"
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                              },
+                              {
+                                "topic": "教材[2] 陈伯显.核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                                "id": "c898ccbc3342c66d",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
                               }
                             ]
                           },
@@ -95,7 +100,7 @@
                             "children": [
                               {
                                 "id": "466a94f341922ac9",
-                                "topic": "[1]"
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                               }
                             ]
                           }
@@ -115,7 +120,7 @@
                     "children": [
                       {
                         "id": "605dc9f47f3cadbd",
-                        "topic": "[1]"
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                       }
                     ]
                   },
@@ -125,7 +130,7 @@
                     "children": [
                       {
                         "id": "4d234ce43dea16f6",
-                        "topic": "[1]"
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                       }
                     ]
                   },
@@ -135,7 +140,7 @@
                     "children": [
                       {
                         "id": "3620f12ea70d724d",
-                        "topic": "[1]"
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                       }
                     ]
                   }
@@ -160,8 +165,14 @@
                         "topic": "种类和特性",
                         "children": [
                           {
-                            "id": "9a1ee50b2516a6e4",
-                            "topic": "[2][3]"
+                            "topic": "教材[2] 陈伯显.核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                            "id": "c898d737f476442f",
+                            "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                          },
+                          {
+                            "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                            "id": "c898d8fc013d7120",
+                            "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                           }
                         ]
                       },
@@ -174,8 +185,14 @@
                             "topic": "电离和激发",
                             "children": [
                               {
-                                "id": "e8d7ca3888bb5544",
-                                "topic": "[2][3]"
+                                "topic": "教材[2] 陈伯显.核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                                "id": "c898dc9aef00cbfb",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898ddad6ce5b847",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           },
@@ -184,8 +201,14 @@
                             "topic": "轫致辐射",
                             "children": [
                               {
-                                "id": "2e9bd89394b4de11",
-                                "topic": "[2][3]"
+                                "topic": "教材[2] 陈伯显.核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                                "id": "c898df954e908c62",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898e0e3183f5d43",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           },
@@ -194,8 +217,14 @@
                             "topic": "弹性散射",
                             "children": [
                               {
-                                "id": "efa9bdd38d12233b",
-                                "topic": "[2][3]"
+                                "topic": "教材[2] 陈伯显.核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                                "id": "c898dfc0465b7590",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898e1402234c6df",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           },
@@ -204,8 +233,14 @@
                             "topic": "核反应",
                             "children": [
                               {
-                                "id": "42ed534ce6b7f298",
-                                "topic": "[2][3]"
+                                "topic": "教材[2] 陈伯显.核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                                "id": "c898e0065fe65f50",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898e18e012ec7b2",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           },
@@ -214,8 +249,14 @@
                             "topic": "湮没辐射",
                             "children": [
                               {
-                                "id": "dc870cf68aeb7fa1",
-                                "topic": "[2][3]"
+                                "topic": "教材[2] 陈伯显.核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                                "id": "c898e03a6ffb54d3",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898e1ce896c50f3",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           },
@@ -224,8 +265,9 @@
                             "topic": "切伦科夫辐射",
                             "children": [
                               {
-                                "id": "18145b6d359ed02f",
-                                "topic": "[2][3]"
+                                "topic": "教材[2] 陈伯显.核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                                "id": "c898e07826c43c12",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
                               }
                             ]
                           }
@@ -236,8 +278,9 @@
                         "topic": "带电粒子在物质中的射程",
                         "children": [
                           {
-                            "id": "fd9476fcb40e3c8f",
-                            "topic": "[3]"
+                            "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                            "id": "c898e3daf9e0c142",
+                            "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                           }
                         ]
                       },
@@ -249,8 +292,13 @@
                             "id": "b67aec228ca81daf",
                             "children": [
                               {
-                                "id": "ba1b91dc3685c86c",
-                                "topic": "[1][3]"
+                                "id": "c898e65cb89ab36a",
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898e72fbd1d9db8",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ],
                             "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/1.2.1-1.PNG\" width=\"90\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -259,8 +307,13 @@
                             "id": "647a71445d4021d8",
                             "children": [
                               {
-                                "id": "ba1b92156d801f3b",
-                                "topic": "[1][3]"
+                                "id": "c898e7c56579dfd2",
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898e8128376db85",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ],
                             "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/1.2.1-2.PNG\" width=\"90\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -270,8 +323,9 @@
                             "topic": "LET",
                             "children": [
                               {
-                                "id": "e84a4486af549ee8",
-                                "topic": "[3]"
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898e8c12e4ea29f",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           }
@@ -292,8 +346,14 @@
                             "topic": "光电效应",
                             "children": [
                               {
-                                "id": "7d83a902aebb4e3c",
-                                "topic": "[2][3]"
+                                "topic": "教材[2] 陈伯显.核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                                "id": "c898e98a4c811983",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898e9fca062e6db",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           },
@@ -302,8 +362,14 @@
                             "topic": "康普顿效应",
                             "children": [
                               {
-                                "id": "19804ded497cce69",
-                                "topic": "[2][3]"
+                                "topic": "教材[2] 陈伯显.核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                                "id": "c898ebb4262eebc2",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898ec382684ab70",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           },
@@ -312,8 +378,14 @@
                             "topic": "电子对效应",
                             "children": [
                               {
-                                "id": "5549f558aa648fdc",
-                                "topic": "[2][3]"
+                                "topic": "教材[2] 陈伯显.核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                                "id": "c898ecce1989b4c5",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898ed16a9caae4c",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           },
@@ -322,8 +394,9 @@
                             "topic": "相干散射",
                             "children": [
                               {
-                                "id": "f55b72efb3b8b4a5",
-                                "topic": "[3]"
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898eda8303f0de0",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           },
@@ -332,8 +405,9 @@
                             "topic": "光核反应",
                             "children": [
                               {
-                                "id": "350788b16061de95",
-                                "topic": "[3]"
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898edd28d166e12",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           }
@@ -344,8 +418,13 @@
                         "topic": "衰减过程",
                         "children": [
                           {
-                            "id": "c421fbe498404158",
-                            "topic": "[1][3]"
+                            "id": "c898ef238962e177",
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                          },
+                          {
+                            "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                            "id": "c898ef750e61819c",
+                            "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                           }
                         ]
                       },
@@ -358,8 +437,13 @@
                             "topic": "质量衰减系数",
                             "children": [
                               {
-                                "id": "5346b3961591aa49",
-                                "topic": "[1][3]"
+                                "id": "c898f04542361f76",
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898f0fdcaafbfe7",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           },
@@ -368,8 +452,13 @@
                             "topic": "质能转移系数",
                             "children": [
                               {
-                                "id": "45bfb5ebc322816e",
-                                "topic": "[1][3]"
+                                "id": "c898f073f5cfca03",
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898f12769ac2b17",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           },
@@ -378,8 +467,13 @@
                             "topic": "质能吸收系数",
                             "children": [
                               {
-                                "id": "5543f089775144e5",
-                                "topic": "[1][3]"
+                                "id": "c898f0a60b546990",
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898f1618a82e4b8",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           }
@@ -400,8 +494,14 @@
                             "topic": "非弹性散射",
                             "children": [
                               {
-                                "id": "100ca8d14a4f0cca",
-                                "topic": "[2][3]"
+                                "topic": "教材[2] 陈伯显.核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                                "id": "c898f3374ce5fd37",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898f37b74bf11c4",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           },
@@ -410,8 +510,14 @@
                             "topic": "弹性散射",
                             "children": [
                               {
-                                "id": "406d9d4b664a6893",
-                                "topic": "[2][3]"
+                                "topic": "教材[2] 陈伯显.核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                                "id": "c898f400ece80e49",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898f4f1f88c9a45",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           },
@@ -420,8 +526,14 @@
                             "topic": "辐射俘获",
                             "children": [
                               {
-                                "id": "dee323b54d737fb7",
-                                "topic": "[2][3]"
+                                "topic": "教材[2] 陈伯显.核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                                "id": "c898f4516a088e64",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898f520da637537",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           },
@@ -430,8 +542,14 @@
                             "topic": "其它核反应",
                             "children": [
                               {
-                                "id": "4441d884e0033dd4",
-                                "topic": "[2][3]"
+                                "topic": "教材[2] 陈伯显.核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                                "id": "c898f47671d9be7e",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                              },
+                              {
+                                "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                "id": "c898f54b59d918cf",
+                                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                               }
                             ]
                           }
@@ -442,8 +560,9 @@
                         "topic": "衰减过程",
                         "children": [
                           {
-                            "id": "f329563dbd3e467d",
-                            "topic": "[3]"
+                            "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                            "id": "c898f6683747150f",
+                            "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                           }
                         ]
                       },
@@ -457,7 +576,8 @@
                             "children": [
                               {
                                 "id": "ae5a110c323edc14",
-                                "topic": "[8]"
+                                "topic": "学位论文[8] 蒋云.射线装置风险评估及辐射安全与防护管理办法研究[D]. 北京: 清华大学, 2011.",
+                                "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=201509"
                               }
                             ]
                           }
@@ -477,7 +597,8 @@
                     "children": [
                       {
                         "id": "cd5262d33b117801",
-                        "topic": "[11]"
+                        "topic": "学位论文[11] 王文静.基于DNA辐射损伤的细胞存活模型研究[D]. 北京: 清华大学, 2018.",
+                        "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=251487"
                       }
                     ]
                   },
@@ -486,8 +607,9 @@
                     "topic": "强子簇射",
                     "children": [
                       {
-                        "id": "0aa9379f5cc91448",
-                        "topic": "[11]"
+                        "id": "c89907aab29b87e9",
+                        "topic": "学位论文[11] 王文静.基于DNA辐射损伤的细胞存活模型研究[D]. 北京: 清华大学, 2018.",
+                        "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=251487"
                       }
                     ]
                   }
@@ -511,8 +633,8 @@
                 "topic": "低吸收能量引起高生物效应",
                 "children": [
                   {
-                    "id": "e2f965f65120f21b",
-                    "topic": "[1]"
+                    "id": "c8990b1657661618",
+                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                   }
                 ]
               },
@@ -521,8 +643,8 @@
                 "topic": "短暂作用引起长期效应",
                 "children": [
                   {
-                    "id": "846dbb25a2f6c465",
-                    "topic": "[1]"
+                    "id": "c8990b48c5a464c1",
+                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                   }
                 ]
               }
@@ -541,8 +663,13 @@
                     "topic": "射线品质",
                     "children": [
                       {
-                        "id": "39c8ce36074b06e0",
-                        "topic": "[1][4]"
+                        "id": "c8990bec187cd973",
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                      },
+                      {
+                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                        "id": "c899105a05c3aaf1",
+                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                       }
                     ]
                   },
@@ -551,8 +678,13 @@
                     "topic": "辐射剂量",
                     "children": [
                       {
-                        "id": "fc3ba6ec5f279732",
-                        "topic": "[1][4]"
+                        "id": "c8990c1887905f70",
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                      },
+                      {
+                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                        "id": "c899138f7ca18713",
+                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                       }
                     ]
                   },
@@ -561,8 +693,13 @@
                     "topic": "分次照射/单次受照",
                     "children": [
                       {
-                        "id": "84c6fbed7f013ed5",
-                        "topic": "[1][4]"
+                        "id": "c8990c4bfc336966",
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                      },
+                      {
+                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                        "id": "c89913d7a01fe4b3",
+                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                       }
                     ]
                   },
@@ -571,8 +708,13 @@
                     "topic": "照射条件",
                     "children": [
                       {
-                        "id": "3b4c25bc16d8e106",
-                        "topic": "[1][4]"
+                        "id": "c8990c9eb09ec438",
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                      },
+                      {
+                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                        "id": "c8991462a8cd6bf7",
+                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                       }
                     ]
                   }
@@ -587,8 +729,13 @@
                     "topic": "不同生物种系对辐射的敏感性不同",
                     "children": [
                       {
-                        "id": "cc9050500c448723",
-                        "topic": "[1][4]"
+                        "id": "c8990ccf51cb7122",
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                      },
+                      {
+                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                        "id": "c89914ae3c722a09",
+                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                       }
                     ]
                   },
@@ -597,8 +744,13 @@
                     "topic": "不同年龄对辐射敏感性不同",
                     "children": [
                       {
-                        "id": "151796e17ec48cd7",
-                        "topic": "[1][4]"
+                        "id": "c8990d13e4180db3",
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                      },
+                      {
+                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                        "id": "c89914ed483498e7",
+                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                       }
                     ]
                   },
@@ -607,8 +759,13 @@
                     "topic": "不同组织或器官对辐射敏感性不同",
                     "children": [
                       {
-                        "id": "83c380e00dcbe162",
-                        "topic": "[1][4]"
+                        "id": "c8990d4ed11201a2",
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                      },
+                      {
+                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                        "id": "c899154d5ac8e6a2",
+                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                       }
                     ]
                   }
@@ -625,8 +782,9 @@
                 "topic": "直接作用（直接影响生物大分子）",
                 "children": [
                   {
-                    "id": "3f84369afcfbdfad",
-                    "topic": "[4]"
+                    "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                    "id": "c8991716ad5b362f",
+                    "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                   }
                 ]
               },
@@ -635,8 +793,9 @@
                 "topic": "间接作用",
                 "children": [
                   {
-                    "id": "23a0c1cc14e909d7",
-                    "topic": "[4]"
+                    "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                    "id": "c89917a5d4f93445",
+                    "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                   }
                 ]
               }
@@ -667,8 +826,13 @@
                                 "topic": "有阈",
                                 "children": [
                                   {
-                                    "id": "dac5f9ca42432b92",
-                                    "topic": "[1][4]"
+                                    "id": "c8991908e18c852b",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                    "id": "c8991965b17d5079",
+                                    "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                   }
                                 ]
                               },
@@ -677,8 +841,13 @@
                                 "topic": "严重程度与剂量有关",
                                 "children": [
                                   {
-                                    "id": "5a0e47197586a3b3",
-                                    "topic": "[1][4]"
+                                    "id": "c89919ec6286013c",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                    "id": "c899205bc0e2ca6e",
+                                    "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                   }
                                 ]
                               }
@@ -693,8 +862,13 @@
                                 "topic": "血液的辐射效应",
                                 "children": [
                                   {
-                                    "id": "3d7c54fda96ad495",
-                                    "topic": "[1][4]"
+                                    "id": "c8991a33f1d69d00",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                    "id": "c89920a29b0146e9",
+                                    "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                   }
                                 ]
                               },
@@ -703,8 +877,13 @@
                                 "topic": "性腺的辐射效应",
                                 "children": [
                                   {
-                                    "id": "5a08653abbfff2b8",
-                                    "topic": "[1][4]"
+                                    "id": "c8991a5ca6bedcee",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                    "id": "c89920e725a4b858",
+                                    "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                   }
                                 ]
                               },
@@ -717,8 +896,13 @@
                                     "topic": "眼晶体混浊",
                                     "children": [
                                       {
-                                        "id": "2a40b05bcf534132",
-                                        "topic": "[1][4]"
+                                        "id": "c8991a875ac9834f",
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                      },
+                                      {
+                                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                        "id": "c899212c37104ae8",
+                                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                       }
                                     ]
                                   },
@@ -727,8 +911,13 @@
                                     "topic": "白内障",
                                     "children": [
                                       {
-                                        "id": "d112f2951184c6b4",
-                                        "topic": "[1][4]"
+                                        "id": "c8991ab6d161029e",
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                      },
+                                      {
+                                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                        "id": "c8992165c5ac9098",
+                                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                       }
                                     ]
                                   }
@@ -739,8 +928,13 @@
                                 "topic": "皮肤的辐射效应",
                                 "children": [
                                   {
-                                    "id": "1580645f128bf4fc",
-                                    "topic": "[1][4]"
+                                    "id": "c8991af87280df97",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                    "id": "c89921bb7fc65e42",
+                                    "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                   }
                                 ]
                               },
@@ -749,8 +943,13 @@
                                 "topic": "急性放射病",
                                 "children": [
                                   {
-                                    "id": "1237134285f4852c",
-                                    "topic": "[1][4]"
+                                    "id": "c8991b1f8fa9d104",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                    "id": "c89921ffdabe7541",
+                                    "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                   }
                                 ]
                               },
@@ -759,8 +958,13 @@
                                 "topic": "对胚胎和胎儿的影响",
                                 "children": [
                                   {
-                                    "id": "5459a8d91e0915a9",
-                                    "topic": "[1][4]"
+                                    "id": "c8991b609fce753b",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                    "id": "c899223d5b3420c0",
+                                    "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                   }
                                 ]
                               },
@@ -773,8 +977,13 @@
                                     "topic": "甲状腺",
                                     "children": [
                                       {
-                                        "id": "5bfba045618fcef1",
-                                        "topic": "[1][4]"
+                                        "id": "c8991b8a1902d56e",
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                      },
+                                      {
+                                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                        "id": "c899227f70a83a80",
+                                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                       }
                                     ]
                                   },
@@ -783,8 +992,13 @@
                                     "topic": "肺脏等",
                                     "children": [
                                       {
-                                        "id": "1ae3849f50f99a16",
-                                        "topic": "[1][4]"
+                                        "id": "c8991bc5ae615199",
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                      },
+                                      {
+                                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                        "id": "c89922bcbbdbccac",
+                                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                       }
                                     ]
                                   }
@@ -807,8 +1021,13 @@
                                 "topic": "发生概率与剂量有关",
                                 "children": [
                                   {
-                                    "id": "aa8b085adbd18e15",
-                                    "topic": "[1][4]"
+                                    "id": "c8991c08c8f27de6",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                    "id": "c89922fcc96155a3",
+                                    "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                   }
                                 ]
                               },
@@ -817,8 +1036,13 @@
                                 "topic": "严重程度与剂量无关",
                                 "children": [
                                   {
-                                    "id": "b85416e556d52b34",
-                                    "topic": "[1][4]"
+                                    "id": "c8991c2f9a9f21bf",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                    "id": "c8992337fd2d909e",
+                                    "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                   }
                                 ]
                               }
@@ -837,8 +1061,13 @@
                                     "topic": "白血病",
                                     "children": [
                                       {
-                                        "id": "0802397e8efad918",
-                                        "topic": "[1][4]"
+                                        "id": "c8991c6c25ed31e8",
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                      },
+                                      {
+                                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                        "id": "c899237b28edac68",
+                                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                       }
                                     ]
                                   },
@@ -847,8 +1076,13 @@
                                     "topic": "甲状腺癌",
                                     "children": [
                                       {
-                                        "id": "d9f0d31112b29ea5",
-                                        "topic": "[1][4]"
+                                        "id": "c8991c955937381c",
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                      },
+                                      {
+                                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                        "id": "c89923b97bc71c20",
+                                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                       }
                                     ]
                                   },
@@ -857,8 +1091,13 @@
                                     "topic": "乳腺癌",
                                     "children": [
                                       {
-                                        "id": "fdb3ef82e0262351",
-                                        "topic": "[1][4]"
+                                        "id": "c8991cc46fbec5b9",
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                      },
+                                      {
+                                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                        "id": "c89923f4fd9d872b",
+                                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                       }
                                     ]
                                   },
@@ -867,8 +1106,13 @@
                                     "topic": "肺癌",
                                     "children": [
                                       {
-                                        "id": "05f5f3f0b5decd41",
-                                        "topic": "[1][4]"
+                                        "id": "c8991d0e1b792ff6",
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                      },
+                                      {
+                                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                        "id": "c899242f518f5860",
+                                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                       }
                                     ]
                                   },
@@ -877,8 +1121,13 @@
                                     "topic": "骨肉瘤",
                                     "children": [
                                       {
-                                        "id": "1aa7e330819fd8e4",
-                                        "topic": "[1][4]"
+                                        "id": "c8991d3e288ecd06",
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                      },
+                                      {
+                                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                        "id": "c899246cfee0992a",
+                                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                       }
                                     ]
                                   },
@@ -887,8 +1136,13 @@
                                     "topic": "出生前受照的儿童发生的恶性肿瘤",
                                     "children": [
                                       {
-                                        "id": "7493a86f95c6c49e",
-                                        "topic": "[1][4]"
+                                        "id": "c8991d7eddffd421",
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                      },
+                                      {
+                                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                        "id": "c89924af67ecca0f",
+                                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                       }
                                     ]
                                   },
@@ -897,8 +1151,13 @@
                                     "topic": "其它",
                                     "children": [
                                       {
-                                        "id": "c300208a217e8c20",
-                                        "topic": "[1][4]"
+                                        "id": "c8991da892b6d17d",
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                      },
+                                      {
+                                        "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                        "id": "c8992502f6b7bfe3",
+                                        "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                       }
                                     ]
                                   }
@@ -909,8 +1168,13 @@
                                 "topic": "遗传效应",
                                 "children": [
                                   {
-                                    "id": "f60f5b04e67e51f5",
-                                    "topic": "[1][4]"
+                                    "id": "c8991dd14b3b1770",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[4] 李德平.辐射防护手册 第五分册 辐射危害与医学监督[M]. 北京: 原子能出版社, 1991.",
+                                    "id": "c899254bb1783702",
+                                    "hyperLink": "https://z-library.sk/book/30092506/8cd4c6/%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E6%89%8B%E5%86%8C-%E7%AC%AC5%E5%88%86%E5%86%8C-%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E4%B8%8E%E5%8C%BB%E5%AD%A6%E7%9B%91%E7%9D%A3.html"
                                   }
                                 ]
                               }
@@ -935,8 +1199,8 @@
                         "topic": "碱基损伤",
                         "children": [
                           {
-                            "id": "9b5b41e59fdf8531",
-                            "topic": "[1]"
+                            "id": "c8992bfb8bfed4db",
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       },
@@ -950,7 +1214,7 @@
                             "children": [
                               {
                                 "id": "8a2b2d822812f174",
-                                "topic": "[1]"
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                               }
                             ]
                           },
@@ -960,7 +1224,7 @@
                             "children": [
                               {
                                 "id": "c17a50b2519dbed9",
-                                "topic": "[1]"
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                               }
                             ]
                           }
@@ -972,7 +1236,7 @@
                         "children": [
                           {
                             "id": "909388eeb78f8583",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       }
@@ -984,7 +1248,7 @@
                     "children": [
                       {
                         "id": "0144b1812d5c13f3",
-                        "topic": "[1]"
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                       }
                     ]
                   },
@@ -1006,7 +1270,7 @@
                                 "children": [
                                   {
                                     "id": "2527e522437bd15f",
-                                    "topic": "[1]"
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                                   }
                                 ]
                               },
@@ -1016,7 +1280,7 @@
                                 "children": [
                                   {
                                     "id": "de505e604b690532",
-                                    "topic": "[1]"
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                                   }
                                 ]
                               }
@@ -1051,7 +1315,7 @@
                     "children": [
                       {
                         "id": "50838affe843ecc7",
-                        "topic": "[1]"
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                       }
                     ]
                   },
@@ -1072,8 +1336,13 @@
                                 "topic": "进入以该点为球心，截面积为da的小球体内的粒子数与da的商",
                                 "children": [
                                   {
-                                    "id": "20e6a0b57ee13de6",
-                                    "topic": "[1][3]"
+                                    "id": "c8992f43492bcdd2",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                    "id": "c89943db457a7d60",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                   }
                                 ]
                               }
@@ -1087,8 +1356,13 @@
                                 "id": "a613f04cfcd17668",
                                 "children": [
                                   {
-                                    "id": "ba1baf9037bcb519",
-                                    "topic": "[1][3]"
+                                    "id": "c8992f9713f2ec2d",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                    "id": "c8994505077a80cc",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                   }
                                 ],
                                 "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/粒子注量.png\" width=\"300\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -1110,8 +1384,13 @@
                                 "topic": "进入单位截面积的球体内的所有粒子能量之和与da的商",
                                 "children": [
                                   {
-                                    "id": "c394f0c4692dde03",
-                                    "topic": "[1][3]"
+                                    "id": "c8992fba1cef2e8b",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                    "id": "c899458372f821dd",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                   }
                                 ]
                               }
@@ -1125,8 +1404,13 @@
                                 "id": "e947d875c0f6c441",
                                 "children": [
                                   {
-                                    "id": "ba1bb90e9552ba9e",
-                                    "topic": "[1][3]"
+                                    "id": "c8992ff06d4bc2bb",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                    "id": "c899463ae5e7cffb",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                   }
                                 ],
                                 "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/能量注量.png\" width=\"300\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -1154,8 +1438,13 @@
                                 "topic": "比释动能K定义为带电粒子初始动能和质量之商，其中带电粒子初始动能是非带电粒子在质量为dm的物质中，在相互作用过程中释出的所有带电粒子初始动能的总和。",
                                 "children": [
                                   {
-                                    "id": "ac4e746718ba91df",
-                                    "topic": "[1][3]"
+                                    "id": "c89930182be478ca",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                    "id": "c89946bb2b007610",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                   }
                                 ]
                               },
@@ -1163,8 +1452,13 @@
                                 "id": "ba1c23549273e5fa",
                                 "children": [
                                   {
-                                    "id": "ba1c240bc29ebc95",
-                                    "topic": "[1][3]"
+                                    "id": "c8993061e32960b6",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                    "id": "c89947392dbc764e",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                   }
                                 ],
                                 "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/3.1.1.3-1.PNG\" width=\"90\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -1179,8 +1473,13 @@
                                 "id": "9fa8e91ba756ed09",
                                 "children": [
                                   {
-                                    "id": "ba1bc3f20a66d3b1",
-                                    "topic": "[1][3]"
+                                    "id": "c89930a37d10fe94",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                    "id": "c89947b4ff42ca57",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                   }
                                 ],
                                 "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/K.png\" width=\"300\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -1206,8 +1505,13 @@
                                     "topic": "沉积能",
                                     "children": [
                                       {
-                                        "id": "b998a1001dd1adf7",
-                                        "topic": "[1][3]"
+                                        "id": "c89930c9341ea873",
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                      },
+                                      {
+                                        "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                        "id": "c899483c73578ca4",
+                                        "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                       }
                                     ]
                                   },
@@ -1216,14 +1520,24 @@
                                     "topic": "授予能",
                                     "children": [
                                       {
-                                        "id": "a4a6a2449eed3fc8",
-                                        "topic": "[1][3]"
+                                        "id": "c89930f739cf51c9",
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                      },
+                                      {
+                                        "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                        "id": "c89948a6cac42fbd",
+                                        "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                       }
                                     ]
                                   },
                                   {
-                                    "id": "a8ca92d254158e3c",
-                                    "topic": "[1][3]"
+                                    "id": "c89931991061db6a",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                    "id": "c899494d59893844",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                   }
                                 ]
                               }
@@ -1237,8 +1551,13 @@
                                 "id": "0b25aedfd5ed1969",
                                 "children": [
                                   {
-                                    "id": "ba1c43cdc1eea4f1",
-                                    "topic": "[1][3]"
+                                    "id": "c89932057c2a30fc",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                    "id": "c89949ed93dadaf9",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                   }
                                 ],
                                 "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/3.1.1.3-2.PNG\" width=\"90\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -1259,8 +1578,13 @@
                                 "id": "29f1e9cdb9001957",
                                 "children": [
                                   {
-                                    "id": "ba1c3a233ba0a576",
-                                    "topic": "[1][3]"
+                                    "id": "c899322f8cc5a821",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                    "id": "c8994a61f5f6fbb9",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                   }
                                 ],
                                 "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/3.1.1.3-3.PNG\" width=\"90\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -1270,8 +1594,13 @@
                                 "topic": "X、γ射线，在空气中，单位体积元内产生的全部电子均被阻留在空气中时，形成的总电荷除以该体积元空气质量。",
                                 "children": [
                                   {
-                                    "id": "ba1c49accd7a19ce",
-                                    "topic": "[1][3]"
+                                    "id": "c899328336cfa7ae",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                    "id": "c8994ae46ec1bcee",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                   }
                                 ]
                               }
@@ -1286,8 +1615,13 @@
                                 "topic": "只适用于X、γ射线",
                                 "children": [
                                   {
-                                    "id": "9317f7800b9f1940",
-                                    "topic": "[1][3]"
+                                    "id": "c89932a7b796dfe5",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                    "id": "c8994b67c3921e8f",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                   }
                                 ]
                               },
@@ -1296,8 +1630,13 @@
                                 "topic": "只针对空气",
                                 "children": [
                                   {
-                                    "id": "4cbe797f56af97e3",
-                                    "topic": "[1][3]"
+                                    "id": "c89932ece95cbc70",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                    "id": "c8994bf81d6b2870",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                   }
                                 ]
                               },
@@ -1306,8 +1645,13 @@
                                 "topic": "测量时必须满足电子平衡",
                                 "children": [
                                   {
-                                    "id": "5f4ed7923fd98df3",
-                                    "topic": "[1][3]"
+                                    "id": "c89933259522ace2",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                    "id": "c8994c745f1e88e4",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                   }
                                 ]
                               }
@@ -1321,8 +1665,13 @@
                                 "id": "0efcf14a44949fd9",
                                 "children": [
                                   {
-                                    "id": "ba1c5131d2a9bd1c",
-                                    "topic": "[1][3]"
+                                    "id": "c89933590ae6bbb6",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                    "id": "c8994cf1758d2708",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                   }
                                 ],
                                 "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/X1.png\" width=\"300\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -1331,8 +1680,13 @@
                                 "id": "f2d6a7312dfc03de",
                                 "children": [
                                   {
-                                    "id": "ba1c516e4cd5e546",
-                                    "topic": "[1][3]"
+                                    "id": "c89933782f7a7a94",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                                  },
+                                  {
+                                    "topic": "教材[3] 田志恒.辐射剂量学[M]. 北京: 原子能出版社, 1992.",
+                                    "id": "c8994d6f1c24f7c6",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F527F65700E065000000000001"
                                   }
                                 ],
                                 "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/X2.png\" width=\"150\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -1353,8 +1707,8 @@
                                 "id": "1512b062ce669324",
                                 "children": [
                                   {
-                                    "id": "ba1c5ea32fc97203",
-                                    "topic": "[1]"
+                                    "id": "c89933b28664e21e",
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                                   }
                                 ],
                                 "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/KD.png\" width=\"300\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -1375,7 +1729,7 @@
                                     "children": [
                                       {
                                         "id": "7399774e88e16678",
-                                        "topic": "[1]"
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                                       }
                                     ]
                                   }
@@ -1391,7 +1745,7 @@
                                     "children": [
                                       {
                                         "id": "47aa198949570c06",
-                                        "topic": "[1]"
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                                       }
                                     ]
                                   },
@@ -1401,7 +1755,7 @@
                                     "children": [
                                       {
                                         "id": "8b88a9bb8373a569",
-                                        "topic": "[1]"
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                                       }
                                     ]
                                   },
@@ -1415,7 +1769,7 @@
                                         "children": [
                                           {
                                             "id": "0af4589ca223b2cb",
-                                            "topic": "[1]"
+                                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                                           }
                                         ]
                                       }
@@ -1433,7 +1787,7 @@
                                     "children": [
                                       {
                                         "id": "1f3a4f89ef734994",
-                                        "topic": "[1]"
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                                       }
                                     ]
                                   },
@@ -1443,7 +1797,7 @@
                                     "children": [
                                       {
                                         "id": "5cc8fb3e80aaa87c",
-                                        "topic": "[1]"
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                                       }
                                     ]
                                   },
@@ -1453,7 +1807,7 @@
                                     "children": [
                                       {
                                         "id": "cd7682e744b180fa",
-                                        "topic": "[1]"
+                                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                                       }
                                     ]
                                   }
@@ -1472,7 +1826,7 @@
                             "children": [
                               {
                                 "id": "ba1c64538009b1a6",
-                                "topic": "[1]"
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                               }
                             ],
                             "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/DX1.png\" width=\"400\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -1482,7 +1836,7 @@
                             "children": [
                               {
                                 "id": "ba1c648ac640c933",
-                                "topic": "[1]"
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                               }
                             ],
                             "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/DX2.png\" width=\"450\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -1498,7 +1852,7 @@
                             "children": [
                               {
                                 "id": "ba1c7399d1e7988f",
-                                "topic": "[1]"
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                               }
                             ],
                             "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/DKX.png\" width=\"450\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -1535,8 +1889,13 @@
                             "id": "c81b11928a57eab3",
                             "children": [
                               {
-                                "id": "ba1c7d87dd88b8d4",
-                                "topic": "[1][7]"
+                                "id": "c8994ff9a08ec9cc",
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                              },
+                              {
+                                "topic": "学位论文[7] 高鹏.北京市辐射事故应急程序及方法研究[D]. 北京: 清华大学, 2011.",
+                                "id": "c8995c2fac4fea11",
+                                "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=201508"
                               }
                             ],
                             "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/3.1.2-1.PNG\" width=\"120\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -1551,8 +1910,13 @@
                             "id": "7cf11e0c7dc10d1d",
                             "children": [
                               {
-                                "id": "ba1c813dcaf6570d",
-                                "topic": "[1][7]"
+                                "id": "c899503002e43ba0",
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                              },
+                              {
+                                "topic": "学位论文[7] 高鹏.北京市辐射事故应急程序及方法研究[D]. 北京: 清华大学, 2011.",
+                                "id": "c899604660b09374",
+                                "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=201508"
                               }
                             ],
                             "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/RBE.png\" width=\"300\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -1562,8 +1926,13 @@
                             "topic": "表达不同种类辐射产生某一特定效应的效率差异",
                             "children": [
                               {
-                                "id": "504f123fd08f45a1",
-                                "topic": "[1][7]"
+                                "id": "c8995055365ed467",
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                              },
+                              {
+                                "topic": "学位论文[7] 高鹏.北京市辐射事故应急程序及方法研究[D]. 北京: 清华大学, 2011.",
+                                "id": "c89960b800cda768",
+                                "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=201508"
                               }
                             ]
                           }
@@ -1574,8 +1943,13 @@
                         "topic": "辐射权重因子",
                         "children": [
                           {
-                            "id": "dd5f601924e286ee",
-                            "topic": "[1][7]"
+                            "id": "c8995091c027a4e8",
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                          },
+                          {
+                            "topic": "学位论文[7] 高鹏.北京市辐射事故应急程序及方法研究[D]. 北京: 清华大学, 2011.",
+                            "id": "c8996139c916d3b2",
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=201508"
                           }
                         ]
                       },
@@ -1584,14 +1958,14 @@
                         "topic": "待积当量剂量",
                         "children": [
                           {
-                            "id": "406451daab26ea34",
-                            "topic": "[1][7]",
-                            "children": [
-                              {
-                                "id": "6e7e11513cd5b719",
-                                "topic": "智能体：内外照射剂量分器官快速计算（DoseAssessment）"
-                              }
-                            ]
+                            "id": "c899520ec207a78e",
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018.",
+                            "children": []
+                          },
+                          {
+                            "topic": "学位论文[7] 高鹏.北京市辐射事故应急程序及方法研究[D]. 北京: 清华大学, 2011.",
+                            "id": "c899620d2a850ffc",
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=201508"
                           }
                         ]
                       }
@@ -1606,8 +1980,13 @@
                         "topic": "组织权重因子",
                         "children": [
                           {
-                            "id": "f02ac9985aa28a68",
-                            "topic": "[1][7]"
+                            "id": "c89952ba83356644",
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                          },
+                          {
+                            "topic": "学位论文[7] 高鹏.北京市辐射事故应急程序及方法研究[D]. 北京: 清华大学, 2011.",
+                            "id": "c8996f1416cc4061",
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=201508"
                           }
                         ]
                       },
@@ -1615,8 +1994,13 @@
                         "id": "ba1c9d4e2da51475",
                         "children": [
                           {
-                            "id": "ba1c9df97941bfbc",
-                            "topic": "[1][7]"
+                            "id": "c8995309210755a3",
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                          },
+                          {
+                            "topic": "学位论文[7] 高鹏.北京市辐射事故应急程序及方法研究[D]. 北京: 清华大学, 2011.",
+                            "id": "c8996fc84d1c75fd",
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=201508"
                           }
                         ],
                         "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/3.1.2-2.PNG\" width=\"240\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -1631,8 +2015,13 @@
                         "id": "0f65ac948ac0a7ef",
                         "children": [
                           {
-                            "id": "ba1ca86f4e864354",
-                            "topic": "[1][7]"
+                            "id": "c899532f3e15ac7b",
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                          },
+                          {
+                            "topic": "学位论文[7] 高鹏.北京市辐射事故应急程序及方法研究[D]. 北京: 清华大学, 2011.",
+                            "id": "c8997054fd57358d",
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=201508"
                           }
                         ],
                         "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/3.1.2-3.PNG\" width=\"120\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
@@ -1651,7 +2040,7 @@
                     "children": [
                       {
                         "id": "1d80480969485e11",
-                        "topic": "[1]"
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                       }
                     ],
                     "image": {
@@ -1666,7 +2055,7 @@
                     "children": [
                       {
                         "id": "cbe4604da30bcb7f",
-                        "topic": "[1]"
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                       }
                     ],
                     "image": {
@@ -1681,7 +2070,7 @@
                     "children": [
                       {
                         "id": "9a17fcdea68ba8d4",
-                        "topic": "[1]"
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                       }
                     ],
                     "image": {
@@ -1700,7 +2089,7 @@
                         "children": [
                           {
                             "id": "7492be4e86bbb380",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       }
@@ -1719,7 +2108,7 @@
                 "children": [
                   {
                     "id": "3ecc3b096b24ab64",
-                    "topic": "[1]"
+                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                   }
                 ]
               }
@@ -1743,7 +2132,7 @@
                         "children": [
                           {
                             "id": "d1152761ad761d45",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       },
@@ -1753,7 +2142,7 @@
                         "children": [
                           {
                             "id": "b5a32c228f502e68",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       },
@@ -1763,7 +2152,7 @@
                         "children": [
                           {
                             "id": "ae0dd825bc838192",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       }
@@ -1779,7 +2168,7 @@
                         "children": [
                           {
                             "id": "fa0c5e0d932755e0",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       },
@@ -1789,7 +2178,7 @@
                         "children": [
                           {
                             "id": "594c3af4908cdf24",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       }
@@ -1805,7 +2194,7 @@
                         "children": [
                           {
                             "id": "167691ee33d01203",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       },
@@ -1815,7 +2204,7 @@
                         "children": [
                           {
                             "id": "71fa27f3cbf57d20",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       },
@@ -1825,7 +2214,7 @@
                         "children": [
                           {
                             "id": "d1896fc9c8452507",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       }
@@ -1837,7 +2226,7 @@
                     "children": [
                       {
                         "id": "e289d4fc76bad2dc",
-                        "topic": "[1]"
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                       }
                     ]
                   }
@@ -1861,7 +2250,7 @@
                             "children": [
                               {
                                 "id": "7e384766f40f31e1",
-                                "topic": "[1]"
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                               }
                             ]
                           },
@@ -1871,7 +2260,7 @@
                             "children": [
                               {
                                 "id": "e5d6bb7a83b89299",
-                                "topic": "[1]"
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                               }
                             ]
                           },
@@ -1881,7 +2270,7 @@
                             "children": [
                               {
                                 "id": "475196364cd4b70e",
-                                "topic": "[1]"
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                               }
                             ]
                           }
@@ -1895,7 +2284,7 @@
                     "children": [
                       {
                         "id": "3aef308084f52dfc",
-                        "topic": "[1]"
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                       }
                     ]
                   }
@@ -1921,7 +2310,8 @@
                         "children": [
                           {
                             "id": "8e37d28b58d75739",
-                            "topic": "[5]"
+                            "topic": "教材[5] 钱建复.核辐射剂量学[M]. 北京: 国防工业出版社, 2009.",
+                            "hyperLink": "https://z-library.sk/book/28860723/008965/%E6%A0%B8%E8%BE%90%E5%B0%84%E5%89%82%E9%87%8F%E5%AD%A6.html"
                           }
                         ]
                       },
@@ -1930,8 +2320,9 @@
                         "topic": "空腔电离室",
                         "children": [
                           {
-                            "id": "e938b789b64c00fb",
-                            "topic": "[5]"
+                            "id": "c89978abb12ccb31",
+                            "topic": "教材[5] 钱建复.核辐射剂量学[M]. 北京: 国防工业出版社, 2009.",
+                            "hyperLink": "https://z-library.sk/book/28860723/008965/%E6%A0%B8%E8%BE%90%E5%B0%84%E5%89%82%E9%87%8F%E5%AD%A6.html"
                           }
                         ]
                       }
@@ -1946,8 +2337,9 @@
                         "topic": "G-M计数管",
                         "children": [
                           {
-                            "id": "4dc5505733aaad45",
-                            "topic": "[5]"
+                            "id": "c899793a406d66d7",
+                            "topic": "教材[5] 钱建复.核辐射剂量学[M]. 北京: 国防工业出版社, 2009.",
+                            "hyperLink": "https://z-library.sk/book/28860723/008965/%E6%A0%B8%E8%BE%90%E5%B0%84%E5%89%82%E9%87%8F%E5%AD%A6.html"
                           }
                         ]
                       },
@@ -1956,8 +2348,9 @@
                         "topic": "闪烁体探测器",
                         "children": [
                           {
-                            "id": "193f5f67ea3ca9c8",
-                            "topic": "[5]"
+                            "id": "c89979639cb3b066",
+                            "topic": "教材[5] 钱建复.核辐射剂量学[M]. 北京: 国防工业出版社, 2009.",
+                            "hyperLink": "https://z-library.sk/book/28860723/008965/%E6%A0%B8%E8%BE%90%E5%B0%84%E5%89%82%E9%87%8F%E5%AD%A6.html"
                           }
                         ]
                       },
@@ -1966,8 +2359,9 @@
                         "topic": "半导体探测器",
                         "children": [
                           {
-                            "id": "51de2fba0ec26aca",
-                            "topic": "[5]"
+                            "id": "c899798c307d10e9",
+                            "topic": "教材[5] 钱建复.核辐射剂量学[M]. 北京: 国防工业出版社, 2009.",
+                            "hyperLink": "https://z-library.sk/book/28860723/008965/%E6%A0%B8%E8%BE%90%E5%B0%84%E5%89%82%E9%87%8F%E5%AD%A6.html"
                           }
                         ]
                       },
@@ -1976,8 +2370,14 @@
                         "topic": "热释光探测器",
                         "children": [
                           {
-                            "id": "a3d21fc274b0f8f0",
-                            "topic": "[5][9]"
+                            "id": "c89979c975c2dcdc",
+                            "topic": "教材[5] 钱建复.核辐射剂量学[M]. 北京: 国防工业出版社, 2009.",
+                            "hyperLink": "https://z-library.sk/book/28860723/008965/%E6%A0%B8%E8%BE%90%E5%B0%84%E5%89%82%E9%87%8F%E5%AD%A6.html"
+                          },
+                          {
+                            "topic": "学位论文[9] 李钊.BNCT装置的热中子源设计和屏蔽设计研究[D]. 北京: 清华大学, 2017.",
+                            "id": "c8997c7dd71159c5",
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=247378"
                           }
                         ]
                       },
@@ -1986,8 +2386,9 @@
                         "topic": "光致发光探测器",
                         "children": [
                           {
-                            "id": "0d789386368f2fa6",
-                            "topic": "[9]"
+                            "topic": "学位论文[9] 李钊.BNCT装置的热中子源设计和屏蔽设计研究[D]. 北京: 清华大学, 2017.",
+                            "id": "c8997f56347e8f9d",
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=247378"
                           }
                         ]
                       }
@@ -2005,7 +2406,7 @@
                     "children": [
                       {
                         "id": "2d11fede10bf7d1e",
-                        "topic": "[1]"
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                       }
                     ]
                   },
@@ -2015,7 +2416,7 @@
                     "children": [
                       {
                         "id": "c0fc3f229842d185",
-                        "topic": "[1]"
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                       }
                     ]
                   }
@@ -2034,8 +2435,9 @@
                     "topic": "正比计数器：剂量当量",
                     "children": [
                       {
-                        "id": "4a1d783ce6a97ad6",
-                        "topic": "[5]"
+                        "id": "c899818136bf68eb",
+                        "topic": "教材[5] 钱建复.核辐射剂量学[M]. 北京: 国防工业出版社, 2009.",
+                        "hyperLink": "https://z-library.sk/book/28860723/008965/%E6%A0%B8%E8%BE%90%E5%B0%84%E5%89%82%E9%87%8F%E5%AD%A6.html"
                       }
                     ]
                   },
@@ -2044,8 +2446,14 @@
                     "topic": "固体核径迹探测器",
                     "children": [
                       {
-                        "id": "bbfabaf4dd4b67a9",
-                        "topic": "[5][9]"
+                        "id": "c899821c8246957f",
+                        "topic": "教材[5] 钱建复.核辐射剂量学[M]. 北京: 国防工业出版社, 2009.",
+                        "hyperLink": "https://z-library.sk/book/28860723/008965/%E6%A0%B8%E8%BE%90%E5%B0%84%E5%89%82%E9%87%8F%E5%AD%A6.html"
+                      },
+                      {
+                        "topic": "学位论文[9] 李钊.BNCT装置的热中子源设计和屏蔽设计研究[D]. 北京: 清华大学, 2017.",
+                        "id": "c899827ff210db5d",
+                        "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=247378"
                       }
                     ]
                   }
@@ -2070,8 +2478,9 @@
                     "topic": "胶片衣襟剂量计",
                     "children": [
                       {
-                        "id": "94e74533a301248c",
-                        "topic": "[5]"
+                        "id": "c8998346aee35fa1",
+                        "topic": "教材[5] 钱建复.核辐射剂量学[M]. 北京: 国防工业出版社, 2009.",
+                        "hyperLink": "https://z-library.sk/book/28860723/008965/%E6%A0%B8%E8%BE%90%E5%B0%84%E5%89%82%E9%87%8F%E5%AD%A6.html"
                       }
                     ]
                   },
@@ -2080,8 +2489,9 @@
                     "topic": "固体剂量计",
                     "children": [
                       {
-                        "id": "da4f2fcf4f2ce503",
-                        "topic": "[5]"
+                        "id": "c899836d89e1a509",
+                        "topic": "教材[5] 钱建复.核辐射剂量学[M]. 北京: 国防工业出版社, 2009.",
+                        "hyperLink": "https://z-library.sk/book/28860723/008965/%E6%A0%B8%E8%BE%90%E5%B0%84%E5%89%82%E9%87%8F%E5%AD%A6.html"
                       }
                     ]
                   },
@@ -2090,8 +2500,9 @@
                     "topic": "袖珍剂量计",
                     "children": [
                       {
-                        "id": "6180cb8bf7ad4f7a",
-                        "topic": "[5]"
+                        "id": "c89983ab8c6dbdc4",
+                        "topic": "教材[5] 钱建复.核辐射剂量学[M]. 北京: 国防工业出版社, 2009.",
+                        "hyperLink": "https://z-library.sk/book/28860723/008965/%E6%A0%B8%E8%BE%90%E5%B0%84%E5%89%82%E9%87%8F%E5%AD%A6.html"
                       }
                     ]
                   },
@@ -2100,8 +2511,9 @@
                     "topic": "直读式真空室剂量计",
                     "children": [
                       {
-                        "id": "1f437002f0938a55",
-                        "topic": "[5]"
+                        "id": "c89983d1c80fc773",
+                        "topic": "教材[5] 钱建复.核辐射剂量学[M]. 北京: 国防工业出版社, 2009.",
+                        "hyperLink": "https://z-library.sk/book/28860723/008965/%E6%A0%B8%E8%BE%90%E5%B0%84%E5%89%82%E9%87%8F%E5%AD%A6.html"
                       }
                     ]
                   },
@@ -2110,8 +2522,9 @@
                     "topic": "电子个人剂量计",
                     "children": [
                       {
-                        "id": "31a2947275a26695",
-                        "topic": "[5]"
+                        "id": "c8998419f67a668a",
+                        "topic": "教材[5] 钱建复.核辐射剂量学[M]. 北京: 国防工业出版社, 2009.",
+                        "hyperLink": "https://z-library.sk/book/28860723/008965/%E6%A0%B8%E8%BE%90%E5%B0%84%E5%89%82%E9%87%8F%E5%AD%A6.html"
                       }
                     ]
                   }
@@ -2139,8 +2552,9 @@
                     "topic": "防止有害的确定性效应，并限制随机性效应的发生率，使之达到被认为可以接受的水平。",
                     "children": [
                       {
-                        "id": "d0aafdb634ff0021",
-                        "topic": "[7]"
+                        "topic": "学位论文[7] 高鹏.北京市辐射事故应急程序及方法研究[D]. 北京: 清华大学, 2011.",
+                        "id": "c89987e08e22e67f",
+                        "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=201508"
                       }
                     ]
                   }
@@ -2155,8 +2569,13 @@
                     "topic": "辐射防护的正当化",
                     "children": [
                       {
-                        "id": "85a762c260296727",
-                        "topic": "[1][7]"
+                        "id": "c899895d0de8e5cb",
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                      },
+                      {
+                        "topic": "学位论文[7] 高鹏.北京市辐射事故应急程序及方法研究[D]. 北京: 清华大学, 2011.",
+                        "id": "c8998a2b3784ba26",
+                        "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=201508"
                       }
                     ]
                   },
@@ -2165,8 +2584,13 @@
                     "topic": "辐射防护的最优化",
                     "children": [
                       {
-                        "id": "d1b728b41946e71f",
-                        "topic": "[1][7]"
+                        "id": "c89989a02007095f",
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                      },
+                      {
+                        "topic": "学位论文[7] 高鹏.北京市辐射事故应急程序及方法研究[D]. 北京: 清华大学, 2011.",
+                        "id": "c8998a52a4cfad20",
+                        "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=201508"
                       }
                     ]
                   },
@@ -2175,8 +2599,13 @@
                     "topic": "剂量限值",
                     "children": [
                       {
-                        "id": "8246c54cf3996380",
-                        "topic": "[1][7]"
+                        "id": "c89989c95af5a92d",
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
+                      },
+                      {
+                        "topic": "学位论文[7] 高鹏.北京市辐射事故应急程序及方法研究[D]. 北京: 清华大学, 2011.",
+                        "id": "c8998a8f89dce05e",
+                        "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=201508"
                       }
                     ]
                   }
@@ -2206,7 +2635,7 @@
                             "children": [
                               {
                                 "id": "eb999439fecc8a84",
-                                "topic": "[1]"
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                               }
                             ]
                           }
@@ -2222,7 +2651,7 @@
                             "children": [
                               {
                                 "id": "f1fded768be9482a",
-                                "topic": "[1]"
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                               }
                             ]
                           }
@@ -2234,7 +2663,7 @@
                         "children": [
                           {
                             "id": "ac633b365da2d188",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       },
@@ -2244,7 +2673,7 @@
                         "children": [
                           {
                             "id": "88740ac24a1c75b6",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       }
@@ -2260,7 +2689,7 @@
                         "children": [
                           {
                             "id": "6a6ab9bc4c3a313d",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       },
@@ -2270,7 +2699,7 @@
                         "children": [
                           {
                             "id": "8a524f0a7d1d3469",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       }
@@ -2286,7 +2715,7 @@
                         "children": [
                           {
                             "id": "fb58df8e5039d31a",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       },
@@ -2300,7 +2729,7 @@
                             "children": [
                               {
                                 "id": "e6f2b5671634c11e",
-                                "topic": "[1]"
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                               }
                             ]
                           },
@@ -2310,7 +2739,7 @@
                             "children": [
                               {
                                 "id": "903cde4cb8fa5177",
-                                "topic": "[1]"
+                                "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                               }
                             ]
                           },
@@ -2324,7 +2753,7 @@
                                 "children": [
                                   {
                                     "id": "6f035a6924f1dadd",
-                                    "topic": "[1]"
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                                   }
                                 ]
                               },
@@ -2334,7 +2763,7 @@
                                 "children": [
                                   {
                                     "id": "014945137e3f5c66",
-                                    "topic": "[1]"
+                                    "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                                   }
                                 ]
                               }
@@ -2348,7 +2777,7 @@
                         "children": [
                           {
                             "id": "0b7040f11c343595",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       }
@@ -2364,7 +2793,7 @@
                         "children": [
                           {
                             "id": "d108b615bd8649e2",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       },
@@ -2374,7 +2803,7 @@
                         "children": [
                           {
                             "id": "5fe091a5b6bb527c",
-                            "topic": "[1]"
+                            "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                           }
                         ]
                       }
@@ -2392,7 +2821,7 @@
                     "children": [
                       {
                         "id": "fba4207328609349",
-                        "topic": "[1]"
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                       }
                     ]
                   },
@@ -2402,7 +2831,7 @@
                     "children": [
                       {
                         "id": "b9b232647a8e526d",
-                        "topic": "[1]"
+                        "topic": "教材[1] 清华大学辐射防护与环境保护研究室.辐射防护概论[M]. 2018."
                       }
                     ]
                   }
@@ -2427,8 +2856,9 @@
                         "topic": "γ射线：空气吸收剂量率",
                         "children": [
                           {
-                            "id": "368c55ad8951fc28",
-                            "topic": "[9]"
+                            "topic": "学位论文[9] 李钊.BNCT装置的热中子源设计和屏蔽设计研究[D]. 北京: 清华大学, 2017.",
+                            "id": "c8999306d0f05407",
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=247378"
                           }
                         ]
                       },
@@ -2437,8 +2867,9 @@
                         "topic": "环境γ辐射：自动连续监测",
                         "children": [
                           {
-                            "id": "b488dd1f873f76ba",
-                            "topic": "[9]"
+                            "topic": "学位论文[9] 李钊.BNCT装置的热中子源设计和屏蔽设计研究[D]. 北京: 清华大学, 2017.",
+                            "id": "c8999336cf4dde4f",
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=247378"
                           }
                         ]
                       },
@@ -2447,8 +2878,9 @@
                         "topic": "γ射线外照射：累积剂量测量",
                         "children": [
                           {
-                            "id": "66bb0df5f19675ed",
-                            "topic": "[9]"
+                            "topic": "学位论文[9] 李钊.BNCT装置的热中子源设计和屏蔽设计研究[D]. 北京: 清华大学, 2017.",
+                            "id": "c89993655aadbbca",
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=247378"
                           }
                         ]
                       }
@@ -2463,8 +2895,9 @@
                         "topic": "按场所分：室内、室外及物体表面",
                         "children": [
                           {
-                            "id": "0a7065af99b27c74",
-                            "topic": "[9]"
+                            "topic": "学位论文[9] 李钊.BNCT装置的热中子源设计和屏蔽设计研究[D]. 北京: 清华大学, 2017.",
+                            "id": "c899939bfcbf7b02",
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=247378"
                           }
                         ]
                       },
@@ -2473,8 +2906,9 @@
                         "topic": "按污染源分：α污染测量、β污染测量",
                         "children": [
                           {
-                            "id": "40a08ac789603023",
-                            "topic": "[9]"
+                            "topic": "学位论文[9] 李钊.BNCT装置的热中子源设计和屏蔽设计研究[D]. 北京: 清华大学, 2017.",
+                            "id": "c89993d8eea01738",
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=247378"
                           }
                         ]
                       }
@@ -2496,7 +2930,8 @@
                         "children": [
                           {
                             "id": "afa1896261a3b4dd",
-                            "topic": "[10]"
+                            "topic": "学位论文[10] 姜晨星.纳剂量学基于原子模型的DNA损伤和修复模型研究[D]. 北京: 清华大学, 2016.",
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=231508"
                           }
                         ]
                       },
@@ -2509,8 +2944,9 @@
                             "topic": "薄层样法",
                             "children": [
                               {
-                                "id": "28615df29858b152",
-                                "topic": "[10]"
+                                "id": "c899999425cbbb28",
+                                "topic": "学位论文[10] 姜晨星.纳剂量学基于原子模型的DNA损伤和修复模型研究[D]. 北京: 清华大学, 2016.",
+                                "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=231508"
                               }
                             ]
                           },
@@ -2519,8 +2955,9 @@
                             "topic": "饱和厚度法",
                             "children": [
                               {
-                                "id": "8bc8c34ec4338659",
-                                "topic": "[10]"
+                                "id": "c89999bd35d493fb",
+                                "topic": "学位论文[10] 姜晨星.纳剂量学基于原子模型的DNA损伤和修复模型研究[D]. 北京: 清华大学, 2016.",
+                                "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=231508"
                               }
                             ]
                           }
@@ -2531,8 +2968,9 @@
                         "topic": "总β放射性测量",
                         "children": [
                           {
-                            "id": "898104e6c358ce84",
-                            "topic": "[10]"
+                            "id": "c8999a0e54f40c65",
+                            "topic": "学位论文[10] 姜晨星.纳剂量学基于原子模型的DNA损伤和修复模型研究[D]. 北京: 清华大学, 2016.",
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=231508"
                           }
                         ]
                       }
@@ -2543,8 +2981,9 @@
                     "topic": "核素分析",
                     "children": [
                       {
-                        "id": "cd4fc0ffaa7f8834",
-                        "topic": "[10]"
+                        "id": "c8999a55d7fe394a",
+                        "topic": "学位论文[10] 姜晨星.纳剂量学基于原子模型的DNA损伤和修复模型研究[D]. 北京: 清华大学, 2016.",
+                        "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=231508"
                       }
                     ]
                   }
@@ -2559,8 +2998,9 @@
                     "topic": "α径迹蚀刻法",
                     "children": [
                       {
-                        "id": "dfbb88ab4b28d120",
-                        "topic": "[9]"
+                        "topic": "学位论文[9] 李钊.BNCT装置的热中子源设计和屏蔽设计研究[D]. 北京: 清华大学, 2017.",
+                        "id": "c8999c2740ef9fe4",
+                        "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=247378"
                       }
                     ]
                   },
@@ -2569,8 +3009,9 @@
                     "topic": "活性炭盒测氡法",
                     "children": [
                       {
-                        "id": "76d89ae2fb058c06",
-                        "topic": "[9]"
+                        "topic": "学位论文[9] 李钊.BNCT装置的热中子源设计和屏蔽设计研究[D]. 北京: 清华大学, 2017.",
+                        "id": "c8999c589d67ac56",
+                        "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=247378"
                       }
                     ]
                   },
@@ -2579,8 +3020,9 @@
                     "topic": "静电收集氡子体测量法",
                     "children": [
                       {
-                        "id": "f7c3232732827c3d",
-                        "topic": "[9]"
+                        "topic": "学位论文[9] 李钊.BNCT装置的热中子源设计和屏蔽设计研究[D]. 北京: 清华大学, 2017.",
+                        "id": "c8999c9e2adfdbdc",
+                        "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=247378"
                       }
                     ]
                   },
@@ -2589,8 +3031,9 @@
                     "topic": "脉冲电离室法",
                     "children": [
                       {
-                        "id": "ba0ebe56ca9188c4",
-                        "topic": "[9]"
+                        "topic": "学位论文[9] 李钊.BNCT装置的热中子源设计和屏蔽设计研究[D]. 北京: 清华大学, 2017.",
+                        "id": "c8999cd530c38664",
+                        "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=247378"
                       }
                     ]
                   }
@@ -2610,7 +3053,7 @@
                         "children": [
                           {
                             "id": "fc326bf5e5c7bec5",
-                            "topic": "[6]"
+                            "topic": "教材[6] 马豪.辐射环境监测基础知识[M]. 北京: 原子能出版社, 2018."
                           }
                         ]
                       },
@@ -2620,7 +3063,7 @@
                         "children": [
                           {
                             "id": "d2dafd59fe1044c0",
-                            "topic": "[6]"
+                            "topic": "教材[6] 马豪.辐射环境监测基础知识[M]. 北京: 原子能出版社, 2018."
                           }
                         ]
                       }
@@ -2632,7 +3075,7 @@
                     "children": [
                       {
                         "id": "9a805a9d9f9acd35",
-                        "topic": "[6]"
+                        "topic": "教材[6] 马豪.辐射环境监测基础知识[M]. 北京: 原子能出版社, 2018."
                       }
                     ]
                   },
@@ -2642,7 +3085,7 @@
                     "children": [
                       {
                         "id": "cadcab4ded04fc4a",
-                        "topic": "[6]"
+                        "topic": "教材[6] 马豪.辐射环境监测基础知识[M]. 北京: 原子能出版社, 2018."
                       }
                     ]
                   },
@@ -2652,7 +3095,7 @@
                     "children": [
                       {
                         "id": "e390518e319035fe",
-                        "topic": "[6]"
+                        "topic": "教材[6] 马豪.辐射环境监测基础知识[M]. 北京: 原子能出版社, 2018."
                       }
                     ]
                   }
@@ -2872,7 +3315,15 @@
     ]
   },
   "arrows": [],
-  "summaries": [],
+  "summaries": [
+    {
+      "id": "c8996c6a89049291",
+      "parent": "7480090e705c0e29",
+      "start": 0,
+      "end": 1,
+      "label": "智能体：内外照射剂量分器官快速计算（DoseAssessment）"
+    }
+  ],
   "direction": 1,
   "theme": {
     "name": "Latte",
