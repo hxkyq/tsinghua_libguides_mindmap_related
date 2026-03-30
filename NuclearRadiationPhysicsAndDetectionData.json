@@ -330,8 +330,8 @@
                     "id": "a005b0cf98e9f502",
                     "children": [
                       {
-                        "id": "a47ebd97a801aa09",
-                        "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/Q方程.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\" referrerpolicy=\"no-referrer\" decoding=\"async\" />"
+                        "id": "a005c7cf90ccb5cc",
+                        "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/Q方程_copy.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\" referrerpolicy=\"no-referrer\" decoding=\"async\" />"
                       }
                     ]
                   },
@@ -389,7 +389,7 @@
                 "children": [
                   {
                     "id": "a005c25f4e796374",
-                    "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/数学基础.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\" referrerpolicy=\"no-referrer\" decoding=\"async\" />"
+                    "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/数学基础_copy.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\" referrerpolicy=\"no-referrer\" decoding=\"async\" />"
                   },
                   {
                     "topic": "误差传递",
@@ -689,7 +689,7 @@
                       },
                       {
                         "id": "a00608c0ed1c4880",
-                        "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/中子探测.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\" referrerpolicy=\"no-referrer\" decoding=\"async\" />"
+                        "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/中子探测_copy.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\" referrerpolicy=\"no-referrer\" decoding=\"async\" />"
                       }
                     ]
                   }
