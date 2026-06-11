@@ -25,12 +25,12 @@
                         "children": [
                           {
                             "id": "16c3289120e7ee21",
-                            "topic": "教材[46] 核能利用与核材料",
+                            "topic": "教材[45] 核能利用与核材料",
                             "hyperLink": "https://lib-tsinghua.wqxuetang.com/book/3184701"
                           },
                           {
                             "id": "ee3f30fb6dcda866",
-                            "topic": "教材[19] Nuclear Physics",
+                            "topic": "教材[18] Nuclear Physics",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_US21284587060003966&search_scope=default_scope&title=Nuclear%20physics%20%2F&version=&frbrgroupid=1148347245&context=L&adaptor=Local%20Search%20Engine&query=any,contains,Nuclear%20Physics%20%28Irving%20Kaplan%29%20&isFrbr=true"
                           }
                         ]
@@ -41,7 +41,7 @@
                         "children": [
                           {
                             "id": "c896725462a7859c",
-                            "topic": "教材[46] 核能利用与核材料",
+                            "topic": "教材[45] 核能利用与核材料",
                             "hyperLink": "https://lib-tsinghua.wqxuetang.com/book/3184701"
                           }
                         ]
@@ -61,7 +61,7 @@
                               },
                               {
                                 "id": "e25932a8fca82613",
-                                "topic": "教材[44] 核工程基本原理（下同）",
+                                "topic": "教材[43] 核工程基本原理（下同）",
                                 "hyperLink": "https://lib-tsinghua.wqxuetang.com/book/3203456"
                               }
                             ]
@@ -107,7 +107,7 @@
                         "children": [
                           {
                             "id": "c271e780803c8e00",
-                            "topic": "教材[46] 核能利用与核材料（下同）",
+                            "topic": "教材[45] 核能利用与核材料（下同）",
                             "hyperLink": "https://lib-tsinghua.wqxuetang.com/book/3184701"
                           }
                         ]
@@ -172,8 +172,8 @@
                         "children": [
                           {
                             "id": "9d5deadfca7beab7",
-                            "topic": "教材[42] 核反应堆物理分析（下同）",
-                            "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/11503982/fe868d6c896d45deb96b802f4cebb0d7/e72e2035b50c2514e94a52f04e2e89fa.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D85fb81f2a5f6f52aa86567806c1b7409%26ssid%3D11503982&fenlei=18140402&logintype=2&uid=&username=166.111.32.74&view=-1"
+                            "topic": "教材[41] 核反应堆物理分析（下同）",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN511021236540003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90%20%E4%B8%8A%20%5B%E7%94%B5%E5%AD%90%E8%B5%84%E6%BA%90%5D&version=2&frbrgroupid=1138453856&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
                       },
@@ -444,8 +444,8 @@
                     "children": [
                       {
                         "id": "c896b4eca5b2c24b",
-                        "topic": "教材[42] 核反应堆物理分析（下同）",
-                        "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/11503982/fe868d6c896d45deb96b802f4cebb0d7/e72e2035b50c2514e94a52f04e2e89fa.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D85fb81f2a5f6f52aa86567806c1b7409%26ssid%3D11503982&fenlei=18140402&logintype=2&uid=&username=166.111.32.74&view=-1"
+                        "topic": "教材[41] 核反应堆物理分析（下同）",
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN511021236540003966&search_scope=L&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90%20%E4%B8%8B%20%5B%E7%94%B5%E5%AD%90%E8%B5%84%E6%BA%90%5D&version=2&frbrgroupid=1138453856&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90&isFrbr=true"
                       }
                     ],
                     "image": {
@@ -644,7 +644,7 @@
                         "children": [
                           {
                             "id": "b1f8ff192dee91af",
-                            "topic": "教材[15] Nuclear and particle physics: an introduction",
+                            "topic": "教材[14] Nuclear and particle physics: an introduction",
                             "hyperLink": "https://onlinelibrary.wiley.com/doi/book/10.1002/0470035471"
                           }
                         ],
@@ -769,8 +769,8 @@
                         "children": [
                           {
                             "id": "c896def8d9859b02",
-                            "topic": "教材[42] 核反应堆物理分析（下同）本章内容安排基本同《核反应堆物理分析》",
-                            "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/11503982/fe868d6c896d45deb96b802f4cebb0d7/e72e2035b50c2514e94a52f04e2e89fa.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D85fb81f2a5f6f52aa86567806c1b7409%26ssid%3D11503982&fenlei=18140402&logintype=2&uid=&username=166.111.32.74&view=-1"
+                            "topic": "教材[41] 核反应堆物理分析（下同）本章内容安排基本同《核反应堆物理分析》",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN511021236540003966&search_scope=L&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90%20%E4%B8%8B%20%5B%E7%94%B5%E5%AD%90%E8%B5%84%E6%BA%90%5D&version=2&frbrgroupid=1138453856&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
                       },
@@ -1013,8 +1013,8 @@
                         "children": [
                           {
                             "id": "c896e4e54218cc63",
-                            "topic": "教材[42] 核反应堆物理分析（下同）本章内容安排基本同《核反应堆物理分析》",
-                            "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/11503982/fe868d6c896d45deb96b802f4cebb0d7/e72e2035b50c2514e94a52f04e2e89fa.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D85fb81f2a5f6f52aa86567806c1b7409%26ssid%3D11503982&fenlei=18140402&logintype=2&uid=&username=166.111.32.74&view=-1"
+                            "topic": "教材[41] 核反应堆物理分析（下同）本章内容安排基本同《核反应堆物理分析》",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN511021236540003966&search_scope=L&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90%20%E4%B8%8B%20%5B%E7%94%B5%E5%AD%90%E8%B5%84%E6%BA%90%5D&version=2&frbrgroupid=1138453856&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
                       },
@@ -1217,8 +1217,8 @@
                         "children": [
                           {
                             "id": "c896e785f86643c0",
-                            "topic": "《核反应堆物理分析》（下同）本章内容安排基本同《核反应堆物理分析》，其中“链式裂变反应”、“热中子反应堆内的中子循环”两节在该书第一章",
-                            "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/11503982/fe868d6c896d45deb96b802f4cebb0d7/e72e2035b50c2514e94a52f04e2e89fa.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D85fb81f2a5f6f52aa86567806c1b7409%26ssid%3D11503982&fenlei=18140402&logintype=2&uid=&username=166.111.32.74&view=-1"
+                            "topic": "教材[41]《核反应堆物理分析》（下同）本章内容安排基本同《核反应堆物理分析》，其中“链式裂变反应”、“热中子反应堆内的中子循环”两节在该书第一章",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN511021236540003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90%20%E4%B8%8A%20%5B%E7%94%B5%E5%AD%90%E8%B5%84%E6%BA%90%5D&version=2&frbrgroupid=1138453856&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
                       },
@@ -1672,8 +1672,8 @@
                             "children": [
                               {
                                 "id": "c896eb5f603d4014",
-                                "topic": "教材[42] 核反应堆物理分析（下同）本章内容安排基本同《核反应堆物理分析》,Xe、Sm中毒相关内容提前到了燃耗方程之后",
-                                "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/11503982/fe868d6c896d45deb96b802f4cebb0d7/e72e2035b50c2514e94a52f04e2e89fa.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D85fb81f2a5f6f52aa86567806c1b7409%26ssid%3D11503982&fenlei=18140402&logintype=2&uid=&username=166.111.32.74&view=-1"
+                                "topic": "教材[41] 核反应堆物理分析（下同）本章内容安排基本同《核反应堆物理分析》,Xe、Sm中毒相关内容提前到了燃耗方程之后",
+                                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN511021236540003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90%20%E4%B8%8B%20%5B%E7%94%B5%E5%AD%90%E8%B5%84%E6%BA%90%5D&version=2&frbrgroupid=1138453856&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90&isFrbr=true"
                               }
                             ]
                           },
@@ -1908,8 +1908,8 @@
                     "children": [
                       {
                         "id": "c896efdff857ce41",
-                        "topic": "教材[42] 核反应堆物理分析（下同）本章内容安排基本同《核反应堆物理分析》,讲解顺序稍有不同",
-                        "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/11503982/fe868d6c896d45deb96b802f4cebb0d7/e72e2035b50c2514e94a52f04e2e89fa.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D85fb81f2a5f6f52aa86567806c1b7409%26ssid%3D11503982&fenlei=18140402&logintype=2&uid=&username=166.111.32.74&view=-1"
+                        "topic": "教材[41] 核反应堆物理分析（下同）本章内容安排基本同《核反应堆物理分析》,讲解顺序稍有不同",
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN511021236540003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90%20%E4%B8%8A%20%5B%E7%94%B5%E5%AD%90%E8%B5%84%E6%BA%90%5D&version=2&frbrgroupid=1138453856&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90&isFrbr=true"
                       }
                     ]
                   },
@@ -2042,8 +2042,8 @@
                             "children": [
                               {
                                 "id": "c896f2b892144e14",
-                                "topic": "教材[42] 核反应堆物理分析（下同）本章内容安排基本同《核反应堆物理分析》",
-                                "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/11503982/fe868d6c896d45deb96b802f4cebb0d7/e72e2035b50c2514e94a52f04e2e89fa.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D85fb81f2a5f6f52aa86567806c1b7409%26ssid%3D11503982&fenlei=18140402&logintype=2&uid=&username=166.111.32.74&view=-1"
+                                "topic": "教材[41] 核反应堆物理分析（下同）本章内容安排基本同《核反应堆物理分析》",
+                                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN511021236540003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90%20%E4%B8%8A%20%5B%E7%94%B5%E5%AD%90%E8%B5%84%E6%BA%90%5D&version=2&frbrgroupid=1138453856&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90&isFrbr=true"
                               }
                             ]
                           },
@@ -2373,7 +2373,8 @@
                         "children": [
                           {
                             "id": "ba1f57f6141b22f9",
-                            "topic": "朱继洲《核反应堆安全分析》2.2"
+                            "topic": "教材[51] 朱继洲《核反应堆安全分析》2.2",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=dedupmrg1061297631&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&version=4&frbrgroupid=656889190&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
                       },
@@ -2383,7 +2384,8 @@
                         "children": [
                           {
                             "id": "92da02dd28c7bf94",
-                            "topic": "朱继洲《核反应堆安全分析》2.2"
+                            "topic": "教材[51] 朱继洲《核反应堆安全分析》2.2",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=dedupmrg1061297631&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&version=4&frbrgroupid=656889190&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
                       },
@@ -2393,7 +2395,8 @@
                         "children": [
                           {
                             "id": "32da97bb59c5c454",
-                            "topic": "朱继洲《核反应堆安全分析》2.2"
+                            "topic": "教材[51] 朱继洲《核反应堆安全分析》2.2",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=dedupmrg1061297631&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&version=4&frbrgroupid=656889190&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
                       }
@@ -2413,7 +2416,7 @@
                             "children": [
                               {
                                 "id": "330730540c2cdb46",
-                                "topic": "教材[35] 俞冀阳《核电厂安全与事故分析》2.1.1",
+                                "topic": "教材[34] 俞冀阳《核电厂安全与事故分析》2.1.1",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687079870003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&version=&frbrgroupid=1157984774&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&isFrbr=true"
                               }
                             ]
@@ -2424,7 +2427,7 @@
                             "children": [
                               {
                                 "id": "c89711d29b8452e4",
-                                "topic": "教材[35] 俞冀阳《核电厂安全与事故分析》2.1.1",
+                                "topic": "教材[34] 俞冀阳《核电厂安全与事故分析》2.1.1",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687079870003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&version=&frbrgroupid=1157984774&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&isFrbr=true"
                               }
                             ]
@@ -2435,7 +2438,7 @@
                             "children": [
                               {
                                 "id": "c8971273191dfa20",
-                                "topic": "教材[35] 俞冀阳《核电厂安全与事故分析》2.1.1",
+                                "topic": "教材[34] 俞冀阳《核电厂安全与事故分析》2.1.1",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687079870003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&version=&frbrgroupid=1157984774&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&isFrbr=true"
                               }
                             ]
@@ -2448,7 +2451,7 @@
                         "children": [
                           {
                             "id": "c897132dc5bb7210",
-                            "topic": "教材[35] 俞冀阳《核电厂安全与事故分析》2.1.1",
+                            "topic": "教材[34] 俞冀阳《核电厂安全与事故分析》2.1.1",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687079870003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&version=&frbrgroupid=1157984774&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
@@ -2459,7 +2462,7 @@
                         "children": [
                           {
                             "id": "c89714481111ed87",
-                            "topic": "教材[35] 俞冀阳《核电厂安全与事故分析》2.1.1",
+                            "topic": "教材[34] 俞冀阳《核电厂安全与事故分析》2.1.1",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687079870003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&version=&frbrgroupid=1157984774&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
@@ -2470,7 +2473,7 @@
                         "children": [
                           {
                             "id": "c89714d809fdd58e",
-                            "topic": "教材[35] 俞冀阳《核电厂安全与事故分析》2.1.1",
+                            "topic": "教材[34] 俞冀阳《核电厂安全与事故分析》2.1.1",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687079870003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&version=&frbrgroupid=1157984774&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
@@ -2481,7 +2484,7 @@
                         "children": [
                           {
                             "id": "c89715775aeb0e03",
-                            "topic": "教材[35] 俞冀阳《核电厂安全与事故分析》2.1.1",
+                            "topic": "教材[34] 俞冀阳《核电厂安全与事故分析》2.1.1",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687079870003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&version=&frbrgroupid=1157984774&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
@@ -2492,7 +2495,7 @@
                         "children": [
                           {
                             "id": "c897161f9d70d127",
-                            "topic": "教材[35] 俞冀阳《核电厂安全与事故分析》2.1.1",
+                            "topic": "教材[34] 俞冀阳《核电厂安全与事故分析》2.1.1",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687079870003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&version=&frbrgroupid=1157984774&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
@@ -2505,7 +2508,7 @@
                     "children": [
                       {
                         "id": "c89716e48ee8a659",
-                        "topic": "教材[35] 俞冀阳《核电厂安全与事故分析》2.1.1",
+                        "topic": "教材[34] 俞冀阳《核电厂安全与事故分析》2.1.1",
                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687079870003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&version=&frbrgroupid=1157984774&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E5%8E%82%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%8B%E6%95%85%E5%88%86%E6%9E%90&isFrbr=true"
                       }
                     ]
@@ -2526,7 +2529,8 @@
                         "children": [
                           {
                             "id": "d378c7e1c70cb486",
-                            "topic": "朱继洲《核反应堆安全分析》5.4 5.7"
+                            "topic": "教材[51] 朱继洲《核反应堆安全分析》5.4 5.7",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=dedupmrg1061297631&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&version=4&frbrgroupid=656889190&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
                       },
@@ -2536,7 +2540,8 @@
                         "children": [
                           {
                             "id": "d675ac108f7c6987",
-                            "topic": "朱继洲《核反应堆安全分析》5.5 5.6"
+                            "topic": "教材[51] 朱继洲《核反应堆安全分析》5.5 5.6",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=dedupmrg1061297631&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&version=4&frbrgroupid=656889190&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
                       },
@@ -2546,7 +2551,8 @@
                         "children": [
                           {
                             "id": "bf8c38c03a5d1b5a",
-                            "topic": "朱继洲《核反应堆安全分析》5.3"
+                            "topic": "教材[51] 朱继洲《核反应堆安全分析》5.3",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=dedupmrg1061297631&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&version=4&frbrgroupid=656889190&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
                       },
@@ -2556,7 +2562,8 @@
                         "children": [
                           {
                             "id": "cb79ffc546c09f08",
-                            "topic": "朱继洲《核反应堆安全分析》5.8"
+                            "topic": "教材[51] 朱继洲《核反应堆安全分析》5.8",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=dedupmrg1061297631&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&version=4&frbrgroupid=656889190&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%8 eight"
                           }
                         ]
                       },
@@ -2566,7 +2573,8 @@
                         "children": [
                           {
                             "id": "65853194da575e30",
-                            "topic": "朱继洲《核反应堆安全分析》5.1"
+                            "topic": "教材[51] 朱继洲《核反应堆安全分析》5.1",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=dedupmrg1061297631&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&version=4&frbrgroupid=656889190&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
                       },
@@ -2576,7 +2584,8 @@
                         "children": [
                           {
                             "id": "ef8482615f3ca0e8",
-                            "topic": "朱继洲《核反应堆安全分析》5.1"
+                            "topic": "教材[51] 朱继洲《核反应堆安全分析》5.1",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=dedupmrg1061297631&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&version=4&frbrgroupid=656889190&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
                       }
@@ -2616,7 +2625,8 @@
                     "children": [
                       {
                         "id": "e574a5107d7426ac",
-                        "topic": "朱继洲《核反应堆安全分析》第七章"
+                        "topic": "朱继洲《核反应堆安全分析》第七章",
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=dedupmrg1061297631&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&version=4&frbrgroupid=656889190&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&isFrbr=true"
                       },
                       {
                         "id": "c89732f6a846e323",
@@ -2637,7 +2647,8 @@
                     "children": [
                       {
                         "id": "5f170be5d0f034f0",
-                        "topic": "朱继洲《核反应堆安全分析》6.7"
+                        "topic": "教材[51] 朱继洲《核反应堆安全分析》6.7",
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=dedupmrg1061297631&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&version=4&frbrgroupid=656889190&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&isFrbr=true"
                       }
                     ]
                   },
@@ -2647,7 +2658,8 @@
                     "children": [
                       {
                         "id": "3b6162319736557f",
-                        "topic": "朱继洲《核反应堆安全分析》6.8"
+                        "topic": "教材[51] 朱继洲《核反应堆安全分析》6.8",
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=dedupmrg1061297631&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&version=4&frbrgroupid=656889190&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&isFrbr=true"
                       }
                     ]
                   },
@@ -2657,7 +2669,8 @@
                     "children": [
                       {
                         "id": "d5b1bbd5f741a7ec",
-                        "topic": "朱继洲《核反应堆安全分析》6.9"
+                        "topic": "教材[51] 朱继洲《核反应堆安全分析》6.9",
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=dedupmrg1061297631&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&version=4&frbrgroupid=656889190&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90&isFrbr=true"
                       }
                     ]
                   }
@@ -2701,7 +2714,7 @@
                     "children": [
                       {
                         "id": "3ac647b6c423ed22",
-                        "topic": "教材[38] 核电技术及发展 1.1.1",
+                        "topic": "教材[37] 核电技术及发展 1.1.1",
                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                       }
                     ]
@@ -2712,7 +2725,7 @@
                     "children": [
                       {
                         "id": "c89745073fd2eee9",
-                        "topic": "教材[38] 核电技术及发展 1.1.2",
+                        "topic": "教材[37] 核电技术及发展 1.1.2",
                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                       }
                     ]
@@ -2723,7 +2736,7 @@
                     "children": [
                       {
                         "id": "c89746e0d1ace10b",
-                        "topic": "教材[38] 核电技术及发展 1.1.3",
+                        "topic": "教材[37] 核电技术及发展 1.1.3", 
                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                       }
                     ]
@@ -2738,7 +2751,7 @@
                         "children": [
                           {
                             "id": "c897482a7e5132e1",
-                            "topic": "教材[38] 核电技术及发展 1.1.4",
+                            "topic": "教材[37] 核电技术及发展 1.1.4",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -2749,7 +2762,7 @@
                         "children": [
                           {
                             "id": "c8974a66242c9f39",
-                            "topic": "教材[38] 核电技术及发展 1.1.1",
+                            "topic": "教材[37] 核电技术及发展 1.1.1",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -2760,7 +2773,7 @@
                         "children": [
                           {
                             "id": "c8974b2109ec3a88",
-                            "topic": "教材[38] 核电技术及发展 1.1.1",
+                            "topic": "教材[37] 核电技术及发展 1.1.1",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -2777,7 +2790,7 @@
                         "children": [
                           {
                             "id": "c8974bdb55ddb2e0",
-                            "topic": "教材[38] 核电技术及发展 1.1.5（下同）",
+                            "topic": "教材[37] 核电技术及发展 1.1.5（下同）",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -2816,7 +2829,7 @@
                     "children": [
                       {
                         "id": "c8974f31a2aa8089",
-                        "topic": "教材[38] 核电技术及发展 2.1.1",
+                        "topic": "教材[37] 核电技术及发展 2.1.1",
                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                       }
                     ]
@@ -2827,7 +2840,7 @@
                     "children": [
                       {
                         "id": "c89750e2a4e5c9cf",
-                        "topic": "教材[38] 核电技术及发展 2.1.2",
+                        "topic": "教材[37] 核电技术及发展 2.1.2",
                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                       }
                     ]
@@ -2846,7 +2859,7 @@
                             "children": [
                               {
                                 "id": "c8975226c2407820",
-                                "topic": "教材[38] 核电技术及发展 2.1.1（下同）",
+                                "topic": "教材[37] 核电技术及发展 2.1.1（下同）",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                               }
                             ]
@@ -2871,7 +2884,7 @@
                             "children": [
                               {
                                 "id": "c89755095847cbfd",
-                                "topic": "教材[38] 核电技术及发展 2.1.2（下同）",
+                                "topic": "教材[37] 核电技术及发展 2.1.2（下同）",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                               }
                             ]
@@ -2924,7 +2937,7 @@
                         "children": [
                           {
                             "id": "c897573250e29e7b",
-                            "topic": "教材[38] 核电技术及发展 2.3.1",
+                            "topic": "教材[37] 核电技术及发展 2.3.1",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -2935,7 +2948,7 @@
                         "children": [
                           {
                             "id": "c897599769850522",
-                            "topic": "教材[38] 核电技术及发展 2.3.2",
+                            "topic": "教材[37] 核电技术及发展 2.3.2",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -2946,7 +2959,7 @@
                         "children": [
                           {
                             "id": "c8975b284dd8d079",
-                            "topic": "教材[38] 核电技术及发展 2.3.3",
+                            "topic": "教材[37] 核电技术及发展 2.3.3",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -2957,7 +2970,7 @@
                         "children": [
                           {
                             "id": "c8975c5b40126297",
-                            "topic": "教材[38] 核电技术及发展 2.3.4",
+                            "topic": "教材[37] 核电技术及发展 2.3.4",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -2968,7 +2981,7 @@
                         "children": [
                           {
                             "id": "c8975d9a9efa65e6",
-                            "topic": "教材[38] 核电技术及发展 2.3.5",
+                            "topic": "教材[37] 核电技术及发展 2.3.5",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -2979,7 +2992,7 @@
                         "children": [
                           {
                             "id": "c8975ee123f44579",
-                            "topic": "教材[38] 核电技术及发展 2.3.6",
+                            "topic": "教材[37] 核电技术及发展 2.3.6",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -3008,7 +3021,7 @@
                                     "children": [
                                       {
                                         "id": "c89760c01d481e2f",
-                                        "topic": "教材[38] 核电技术及发展 2.4.1.1（下同）",
+                                        "topic": "教材[37] 核电技术及发展 2.4.1.1（下同）",
                                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                                       }
                                     ]
@@ -3083,7 +3096,7 @@
                             "children": [
                               {
                                 "id": "c89764c448150f59",
-                                "topic": "教材[38] 核电技术及发展 2.4.1.2（下同）",
+                                "topic": "教材[37] 核电技术及发展 2.4.1.2（下同）",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                               }
                             ]
@@ -3112,7 +3125,7 @@
                             "children": [
                               {
                                 "id": "c89766d78a1a0f97",
-                                "topic": "教材[38] 核电技术及发展 2.4.2（下同）",
+                                "topic": "教材[37] 核电技术及发展 2.4.2（下同）",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                               }
                             ]
@@ -3133,7 +3146,7 @@
                             "children": [
                               {
                                 "id": "c8976880222b04bf",
-                                "topic": "教材[38] 核电技术及发展 2.4.3（下同）",
+                                "topic": "教材[37] 核电技术及发展 2.4.3（下同）",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                               }
                             ]
@@ -3158,7 +3171,7 @@
                             "children": [
                               {
                                 "id": "c8976aa7638a6038",
-                                "topic": "教材[38] 核电技术及发展 2.4.4（下同）",
+                                "topic": "教材[37] 核电技术及发展 2.4.4（下同）",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                               }
                             ]
@@ -3195,7 +3208,7 @@
                         "children": [
                           {
                             "id": "c8976ce263fbeeed",
-                            "topic": "教材[38] 核电技术及发展 2.5.1",
+                            "topic": "教材[37] 核电技术及发展 2.5.1",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -3206,7 +3219,7 @@
                         "children": [
                           {
                             "id": "c8976e86448bf2a7",
-                            "topic": "教材[38] 核电技术及发展 2.5.2",
+                            "topic": "教材[37] 核电技术及发展 2.5.2",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -3217,7 +3230,7 @@
                         "children": [
                           {
                             "id": "c8976fb442e43859",
-                            "topic": "教材[38] 核电技术及发展 2.5.3",
+                            "topic": "教材[37] 核电技术及发展 2.5.3",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -3234,7 +3247,7 @@
                         "children": [
                           {
                             "id": "c897712b509e65b3",
-                            "topic": "教材[38] 核电技术及发展 2.6.1",
+                            "topic": "教材[37] 核电技术及发展 2.6.1",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -3245,7 +3258,7 @@
                         "children": [
                           {
                             "id": "c897732d2ec9bd41",
-                            "topic": "教材[38] 核电技术及发展 2.6.2",
+                            "topic": "教材[37] 核电技术及发展 2.6.2",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -3256,7 +3269,7 @@
                         "children": [
                           {
                             "id": "c897746d84ca3a5d",
-                            "topic": "教材[38] 核电技术及发展 2.6.3",
+                            "topic": "教材[37] 核电技术及发展 2.6.3",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -3267,7 +3280,7 @@
                         "children": [
                           {
                             "id": "c897759450cff31e",
-                            "topic": "教材[38] 核电技术及发展 2.6.4",
+                            "topic": "教材[37] 核电技术及发展 2.6.4",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -3292,7 +3305,7 @@
                                 "children": [
                                   {
                                     "id": "c8977740cfa27eb9",
-                                    "topic": "教材[38] 核电技术及发展 2.7.1（下同）",
+                                    "topic": "教材[37] 核电技术及发展 2.7.1（下同）",
                                     "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                                   }
                                 ]
@@ -3323,7 +3336,7 @@
                         "children": [
                           {
                             "id": "c8977b9ace6b697f",
-                            "topic": "教材[38] 核电技术及发展 2.7.2",
+                            "topic": "教材[37] 核电技术及发展 2.7.2",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -3334,7 +3347,7 @@
                         "children": [
                           {
                             "id": "c8977e4d889b81eb",
-                            "topic": "教材[38] 核电技术及发展 2.7.3",
+                            "topic": "教材[37] 核电技术及发展 2.7.3",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -3345,7 +3358,7 @@
                         "children": [
                           {
                             "id": "c8977f6be817e85b",
-                            "topic": "教材[38] 核电技术及发展 2.7.4",
+                            "topic": "教材[37] 核电技术及发展 2.7.4",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -3364,7 +3377,7 @@
                     "children": [
                       {
                         "id": "c89780c2d70721af",
-                        "topic": "教材[38] 核电技术及发展 3.1",
+                        "topic": "教材[37] 核电技术及发展 3.1",
                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                       }
                     ]
@@ -3379,7 +3392,7 @@
                         "children": [
                           {
                             "id": "c89782f0380e8b71",
-                            "topic": "教材[38] 核电技术及发展 3.3.1（下同）",
+                            "topic": "教材[37] 核电技术及发展 3.3.1（下同）",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -3414,7 +3427,7 @@
                         "children": [
                           {
                             "id": "c897876f13d602da",
-                            "topic": "教材[38] 核电技术及发展 5.1（下同）",
+                            "topic": "教材[37] 核电技术及发展 5.1（下同）",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -3435,7 +3448,7 @@
                     "children": [
                       {
                         "id": "c897895837e55558",
-                        "topic": "教材[38] 核电技术及发展 4.2（下同）",
+                        "topic": "教材[37] 核电技术及发展 4.2（下同）",
                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                       }
                     ]
@@ -3454,7 +3467,7 @@
                             "children": [
                               {
                                 "id": "c8978aba23addfa0",
-                                "topic": "教材[38] 核电技术及发展 4.3（下同）",
+                                "topic": "教材[37] 核电技术及发展 4.3（下同）",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                               }
                             ]
@@ -3489,7 +3502,7 @@
                         "children": [
                           {
                             "id": "c8978ca3b482298f",
-                            "topic": "教材[38] 核电技术及发展 4.4.1",
+                            "topic": "教材[37] 核电技术及发展 4.4.1",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -3500,7 +3513,7 @@
                         "children": [
                           {
                             "id": "c8979195bc527db7",
-                            "topic": "教材[38] 核电技术及发展 4.4.2",
+                            "topic": "教材[37] 核电技术及发展 4.4.2",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21687831290003966&search_scope=default_scope&title=%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&version=&frbrgroupid=1195535308&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%8F%91%E5%B1%95&isFrbr=true"
                           }
                         ]
@@ -3536,7 +3549,7 @@
                         "children": [
                           {
                             "id": "46da326542a211df",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》P16",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》P16",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -3547,7 +3560,7 @@
                         "children": [
                           {
                             "id": "c8979a8a801dc32e",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》P16",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》P16",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -3558,7 +3571,7 @@
                         "children": [
                           {
                             "id": "c8979abf0f6104a8",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》P16",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》P16",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -3579,7 +3592,7 @@
                             "children": [
                               {
                                 "id": "c8979d213887174b",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》第二章 第二节",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》第二章 第二节",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -3590,7 +3603,7 @@
                             "children": [
                               {
                                 "id": "c8979f3d3635bf88",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》第二章 第二节",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》第二章 第二节",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -3601,7 +3614,7 @@
                             "children": [
                               {
                                 "id": "c8979fb9206a91c1",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》第二章 第二节",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》第二章 第二节",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -3614,7 +3627,7 @@
                         "children": [
                           {
                             "id": "c897a14facb971bc",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》第二章 第二节",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》第二章 第二节",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -3625,7 +3638,7 @@
                         "children": [
                           {
                             "id": "c897a20cc9d4ca34",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》第二章 第一节",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》第二章 第一节",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -3636,7 +3649,7 @@
                         "children": [
                           {
                             "id": "c897a3c453e4b0a9",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》第二章 第一节",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》第二章 第一节",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -3647,7 +3660,7 @@
                         "children": [
                           {
                             "id": "c897a3ec8fafe8a3",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》第二章 第一节",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》第二章 第一节",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -3670,7 +3683,7 @@
                                     "children": [
                                       {
                                         "id": "c897a5b85f633f18",
-                                        "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
+                                        "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
                                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                       }
                                     ]
@@ -3681,7 +3694,7 @@
                                     "children": [
                                       {
                                         "id": "c897a80a702e5860",
-                                        "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
+                                        "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
                                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                       }
                                     ]
@@ -3692,7 +3705,7 @@
                                     "children": [
                                       {
                                         "id": "c897a8a3e5ca8b95",
-                                        "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
+                                        "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
                                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                       }
                                     ]
@@ -3703,7 +3716,7 @@
                                     "children": [
                                       {
                                         "id": "c897a977040ac67d",
-                                        "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
+                                        "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
                                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                       }
                                     ]
@@ -3722,7 +3735,7 @@
                                 "children": [
                                   {
                                     "id": "c897aa4b9d4f3201",
-                                    "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
+                                    "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
                                     "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                   }
                                 ]
@@ -3733,7 +3746,7 @@
                                 "children": [
                                   {
                                     "id": "c897ab3ddbc203e3",
-                                    "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
+                                    "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
                                     "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                   }
                                 ]
@@ -3744,7 +3757,7 @@
                                 "children": [
                                   {
                                     "id": "c897ac196d42ffe2",
-                                    "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
+                                    "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
                                     "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                   }
                                 ]
@@ -3761,7 +3774,7 @@
                                 "children": [
                                   {
                                     "id": "c897acc619ca39db",
-                                    "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
+                                    "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
                                     "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                   }
                                 ]
@@ -3772,7 +3785,7 @@
                                 "children": [
                                   {
                                     "id": "c897ad07bcb432c0",
-                                    "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
+                                    "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
                                     "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                   }
                                 ]
@@ -3783,7 +3796,7 @@
                                 "children": [
                                   {
                                     "id": "c897ad3b58a94d59",
-                                    "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
+                                    "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
                                     "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                   }
                                 ]
@@ -3794,7 +3807,7 @@
                                 "children": [
                                   {
                                     "id": "c897ad72fd88be9c",
-                                    "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
+                                    "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
                                     "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                   }
                                 ]
@@ -3809,7 +3822,7 @@
                         "children": [
                           {
                             "id": "c897af5f8bedaead",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第二节 四",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -3826,7 +3839,7 @@
                         "children": [
                           {
                             "id": "c897b04aca2247e8",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第一节",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第一节",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -3837,7 +3850,7 @@
                         "children": [
                           {
                             "id": "c897b23b4177e230",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第一节",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第一节",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -3848,7 +3861,7 @@
                         "children": [
                           {
                             "id": "c897b2821052d10a",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第一节",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第一节",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -3869,7 +3882,7 @@
                             "children": [
                               {
                                 "id": "c897b3d06df67fa2",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第三节 一",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第三节 一",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -3880,7 +3893,7 @@
                             "children": [
                               {
                                 "id": "c897b5bb338d840c",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第三节 一",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第三节 一",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -3891,7 +3904,7 @@
                             "children": [
                               {
                                 "id": "c897b6053f29ac0f",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第三节 一",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第三节 一",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -3902,7 +3915,7 @@
                             "children": [
                               {
                                 "id": "c897b7494397b190",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第三节 一",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第三节 一",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -3913,7 +3926,7 @@
                             "children": [
                               {
                                 "id": "c897b7cd1d120f59",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第三节 一",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第三节 一",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -3930,7 +3943,7 @@
                             "children": [
                               {
                                 "id": "c897b95e0ec66b99",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第三节 二",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第三节 二",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -3941,7 +3954,7 @@
                             "children": [
                               {
                                 "id": "c897bb13e84d5c34",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第三节 二",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第三节 二",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -3952,7 +3965,7 @@
                             "children": [
                               {
                                 "id": "c897bb5ae16fea11",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第三节 二",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第三节 二",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -3982,7 +3995,7 @@
                         "children": [
                           {
                             "id": "a2d81945f678fa30",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第四节",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第四节",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -3993,7 +4006,7 @@
                         "children": [
                           {
                             "id": "c897c90185ce1723",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第四节",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第四节",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -4004,7 +4017,7 @@
                         "children": [
                           {
                             "id": "c897c97eb6f57365",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第四节",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第四节",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -4015,7 +4028,7 @@
                         "children": [
                           {
                             "id": "c897c9f3de2f8ce9",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第四节",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第四节",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -4026,7 +4039,7 @@
                         "children": [
                           {
                             "id": "c897ca4104d1568b",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第四节",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第四节",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -4037,7 +4050,7 @@
                         "children": [
                           {
                             "id": "c897caaa4d0f52d2",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第四节",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第四节",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -4048,7 +4061,7 @@
                         "children": [
                           {
                             "id": "c897cae7796b9e60",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第四节",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第四节",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -4069,7 +4082,7 @@
                             "children": [
                               {
                                 "id": "c897cda8befc2f3c",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 二",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 二",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ],
@@ -4093,7 +4106,7 @@
                                     "children": [
                                       {
                                         "id": "c897d058dafdfb68",
-                                        "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 二",
+                                        "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 二",
                                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                       }
                                     ],
@@ -4109,7 +4122,7 @@
                                     "children": [
                                       {
                                         "id": "c897d08bf7deffa8",
-                                        "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 二",
+                                        "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 二",
                                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                       }
                                     ],
@@ -4139,7 +4152,7 @@
                             "children": [
                               {
                                 "id": "c897d1b34a0e05a6",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 二",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 二",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ],
@@ -4161,7 +4174,7 @@
                             "children": [
                               {
                                 "id": "c897d278b60b97a8",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 二",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 二",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ],
@@ -4187,7 +4200,7 @@
                                 "children": [
                                   {
                                     "id": "c897d34306aa854a",
-                                    "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 三",
+                                    "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 三",
                                     "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                   }
                                 ]
@@ -4198,11 +4211,12 @@
                                 "children": [
                                   {
                                     "id": "3ce05c4b3692e8ea",
-                                    "topic": "曹栋兴《核反应堆设计原理》 第二章 第五节 三"
+                                    "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 三",
+                                    "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                   },
                                   {
                                     "id": "c897d5d1c8ad0530",
-                                    "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 三",
+                                    "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 三",
                                     "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                   }
                                 ]
@@ -4217,7 +4231,7 @@
                                     "children": [
                                       {
                                         "id": "c897d5fc4cba7565",
-                                        "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 三",
+                                        "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 三",
                                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                       }
                                     ]
@@ -4228,7 +4242,7 @@
                                     "children": [
                                       {
                                         "id": "c897d623d7f38fa6",
-                                        "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 三",
+                                        "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 三",
                                         "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                       }
                                     ]
@@ -4241,7 +4255,7 @@
                                 "children": [
                                   {
                                     "id": "c897d6745f282ed7",
-                                    "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 三",
+                                    "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 三",
                                     "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                                   }
                                 ]
@@ -4260,7 +4274,7 @@
                             "children": [
                               {
                                 "id": "c897dad17dfebe0e",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 四",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 四",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -4271,7 +4285,7 @@
                             "children": [
                               {
                                 "id": "c897dd3538f2f0e3",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 四",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 四",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -4282,7 +4296,7 @@
                             "children": [
                               {
                                 "id": "c897dd650180b48a",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 四",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 四",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -4295,7 +4309,7 @@
                         "children": [
                           {
                             "id": "c897de61045d59b8",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 六",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 六",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -4306,7 +4320,7 @@
                         "children": [
                           {
                             "id": "c897e10357507d69",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 二",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 二",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -4321,7 +4335,7 @@
                             "children": [
                               {
                                 "id": "c897e2c171373fbb",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 五",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 五",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -4332,7 +4346,7 @@
                             "children": [
                               {
                                 "id": "c897e44f441e6aaa",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第二章 第五节 五",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第二章 第五节 五",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -4361,7 +4375,7 @@
                         "children": [
                           {
                             "id": "c897e576d438909c",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第三章 第一节 一",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第三章 第一节 一",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -4372,7 +4386,7 @@
                         "children": [
                           {
                             "id": "c897e770ccf079f5",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第三章 第一节 一",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第三章 第一节 一",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -4383,7 +4397,7 @@
                         "children": [
                           {
                             "id": "c897e86b73576d6a",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第三章 第一节 一",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第三章 第一节 一",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -4394,7 +4408,7 @@
                         "children": [
                           {
                             "id": "c897e89f0db06dac",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第三章 第一节 一",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第三章 第一节 一",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -4407,8 +4421,8 @@
                     "children": [
                       {
                         "id": "ee9433cf28b68e4e",
-                        "topic": "教材[42] 谢仲生《核反应堆物理分析》",
-                        "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/11503982/fe868d6c896d45deb96b802f4cebb0d7/e72e2035b50c2514e94a52f04e2e89fa.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D85fb81f2a5f6f52aa86567806c1b7409%26ssid%3D11503982&fenlei=18140402&logintype=2&uid=&username=166.111.32.74&view=-1"
+                        "topic": "教材[41] 谢仲生《核反应堆物理分析》",
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21321471460003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90.%20%E4%B8%8B%E5%86%8C&version=&frbrgroupid=1203930411&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90%20%E4%B8%8B%E5%86%8C&isFrbr=true"
                       }
                     ],
                     "image": {
@@ -4427,8 +4441,8 @@
                         "children": [
                           {
                             "id": "c897ef773b3b44a1",
-                            "topic": "教材[42] 谢仲生《核反应堆物理分析》",
-                            "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/11503982/fe868d6c896d45deb96b802f4cebb0d7/e72e2035b50c2514e94a52f04e2e89fa.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D85fb81f2a5f6f52aa86567806c1b7409%26ssid%3D11503982&fenlei=18140402&logintype=2&uid=&username=166.111.32.74&view=-1"
+                            "topic": "教材[41] 谢仲生《核反应堆物理分析》",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN511021236540003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90%20%E4%B8%8A%20%5B%E7%94%B5%E5%AD%90%E8%B5%84%E6%BA%90%5D&version=2&frbrgroupid=1138453856&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ],
                         "image": {
@@ -4447,8 +4461,8 @@
                             "children": [
                               {
                                 "id": "c897f06060faffc5",
-                                "topic": "教材[42] 谢仲生《核反应堆物理分析》",
-                                "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/11503982/fe868d6c896d45deb96b802f4cebb0d7/e72e2035b50c2514e94a52f04e2e89fa.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D85fb81f2a5f6f52aa86567806c1b7409%26ssid%3D11503982&fenlei=18140402&logintype=2&uid=&username=166.111.32.74&view=-1"
+                                "topic": "教材[41] 谢仲生《核反应堆物理分析》",
+                                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN511021236540003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90%20%E4%B8%8A%20%5B%E7%94%B5%E5%AD%90%E8%B5%84%E6%BA%90%5D&version=2&frbrgroupid=1138453856&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90&isFrbr=true"
                               }
                             ]
                           },
@@ -4458,8 +4472,8 @@
                             "children": [
                               {
                                 "id": "c897f08f02a7246a",
-                                "topic": "教材[42] 谢仲生《核反应堆物理分析》",
-                                "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/11503982/fe868d6c896d45deb96b802f4cebb0d7/e72e2035b50c2514e94a52f04e2e89fa.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D85fb81f2a5f6f52aa86567806c1b7409%26ssid%3D11503982&fenlei=18140402&logintype=2&uid=&username=166.111.32.74&view=-1"
+                                "topic": "教材[41] 谢仲生《核反应堆物理分析》",
+                                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN511021236540003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90%20%E4%B8%8A%20%5B%E7%94%B5%E5%AD%90%E8%B5%84%E6%BA%90%5D&version=2&frbrgroupid=1138453856&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90&isFrbr=true"
                               }
                             ]
                           }
@@ -4477,8 +4491,8 @@
                         "children": [
                           {
                             "id": "c897f1ad756f96f9",
-                            "topic": "教材[42] 谢仲生《核反应堆物理分析》",
-                            "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/11503982/fe868d6c896d45deb96b802f4cebb0d7/e72e2035b50c2514e94a52f04e2e89fa.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D85fb81f2a5f6f52aa86567806c1b7409%26ssid%3D11503982&fenlei=18140402&logintype=2&uid=&username=166.111.32.74&view=-1"
+                            "topic": "教材[41] 谢仲生《核反应堆物理分析》",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN511021236540003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90%20%E4%B8%8A%20%5B%E7%94%B5%E5%AD%90%E8%B5%84%E6%BA%90%5D&version=2&frbrgroupid=1138453856&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90&isFrbr=true"
                           }
                         ]
                       },
@@ -4488,7 +4502,7 @@
                         "children": [
                           {
                             "id": "c897f4d1e8cd59eb",
-                            "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第三章 第二节 三",
+                            "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第三章 第二节 三",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                           }
                         ]
@@ -4503,7 +4517,7 @@
                             "children": [
                               {
                                 "id": "c897f697857dd584",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第三章 第二节 三",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第三章 第二节 三",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -4514,7 +4528,7 @@
                             "children": [
                               {
                                 "id": "c897f6dcf3fdbf71",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第三章 第二节 三",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第三章 第二节 三",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -4531,7 +4545,7 @@
                             "children": [
                               {
                                 "id": "c897f844726e982a",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第三章 第二节 五",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第三章 第二节 五",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -4542,7 +4556,7 @@
                             "children": [
                               {
                                 "id": "c897f99be77443e0",
-                                "topic": "教材[41] 曹栋兴《核反应堆设计原理》 第三章 第二节 五",
+                                "topic": "教材[40] 曹栋兴《核反应堆设计原理》 第三章 第二节 五",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21356473560003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&version=&frbrgroupid=1210532556&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86&isFrbr=true"
                               }
                             ]
@@ -4565,7 +4579,7 @@
                             "children": [
                               {
                                 "id": "e5aae6fc2eccb851",
-                                "topic": "教材[43] 谢仲生《核反应堆物理分析》",
+                                "topic": "教材[42] 谢仲生《核反应堆物理分析》",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21321471460003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90.%20%E4%B8%8B%E5%86%8C&version=&frbrgroupid=1203930411&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90%20%E4%B8%8B%E5%86%8C&isFrbr=true"
                               }
                             ],
@@ -4581,7 +4595,7 @@
                             "children": [
                               {
                                 "id": "c89800b507f8e259",
-                                "topic": "教材[43] 谢仲生《核反应堆物理分析》",
+                                "topic": "教材[42] 谢仲生《核反应堆物理分析》",
                                 "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21321471460003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90.%20%E4%B8%8B%E5%86%8C&version=&frbrgroupid=1203930411&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90%20%E4%B8%8B%E5%86%8C&isFrbr=true"
                               }
                             ],
@@ -4599,7 +4613,7 @@
                         "children": [
                           {
                             "id": "c8980137f3f35e18",
-                            "topic": "教材[43] 谢仲生《核反应堆物理分析》",
+                            "topic": "教材[42] 谢仲生《核反应堆物理分析》",
                             "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21321471460003966&search_scope=default_scope&title=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90.%20%E4%B8%8B%E5%86%8C&version=&frbrgroupid=1203930411&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90%20%E4%B8%8B%E5%86%8C&isFrbr=true"
                           }
                         ]
@@ -5167,7 +5181,7 @@
                         "children": [
                           {
                             "id": "f3d233f23a63385e",
-                            "topic": "教材[31] 陈国良《并行计算：结构·算法·编程》1.4.1（下同）",
+                            "topic": "教材[30] 陈国良《并行计算：结构·算法·编程》1.4.1（下同）",
                             "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F52AFC5700E065000000000001"
                           }
                         ]
@@ -5222,7 +5236,7 @@
                     "children": [
                       {
                         "id": "c898452d69fc78f8",
-                        "topic": "教材[31] 陈国良《并行计算：结构·算法·编程》1.2 1.3 第五章（下同）",
+                        "topic": "教材[30] 陈国良《并行计算：结构·算法·编程》1.2 1.3 第五章（下同）",
                         "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F52AFC5700E065000000000001"
                       }
                     ]
@@ -5297,7 +5311,7 @@
                     "children": [
                       {
                         "id": "c8984701716406e3",
-                        "topic": "教材[31] 陈国良《并行计算：结构·算法·编程》第六、七、八章（下同）",
+                        "topic": "教材[30] 陈国良《并行计算：结构·算法·编程》第六、七、八章（下同）",
                         "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F52AFC5700E065000000000001"
                       }
                     ]
@@ -5332,7 +5346,7 @@
                     "children": [
                       {
                         "id": "c89848e413ea3779",
-                        "topic": "教材[31] 陈国良《并行计算：结构·算法·编程》第二章（下同）",
+                        "topic": "教材[30] 陈国良《并行计算：结构·算法·编程》第二章（下同）",
                         "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F52AFC5700E065000000000001"
                       }
                     ]
@@ -5397,7 +5411,7 @@
                         "children": [
                           {
                             "id": "c8984ab117ff3a54",
-                            "topic": "教材[31] 陈国良《并行计算：结构·算法·编程》4.2.1",
+                            "topic": "教材[30] 陈国良《并行计算：结构·算法·编程》4.2.1",
                             "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F52AFC5700E065000000000001"
                           }
                         ]
