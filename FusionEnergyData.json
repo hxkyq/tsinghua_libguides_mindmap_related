@@ -93,9 +93,11 @@
                           {
                             "id": "e023b6f80dc493c2",
                             "topic": "量子隧穿效应【1】",
-                            "children": []
+                            "children": [],
+                            "hyperLink": "https://www.nature.com/articles/122805b0"
                           }
-                        ]
+                        ],
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                       },
                       {
                         "id": "b9db5520358effc4",
@@ -104,7 +106,8 @@
                           {
                             "id": "d42c6f7fb57b0a2b",
                             "topic": "反应率R=n'*n*σv【2】Chp 3.3.1",
-                            "children": []
+                            "children": [],
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           },
                           {
                             "id": "5812b0744b450546",
@@ -119,7 +122,8 @@
                                   "height": 32
                                 }
                               }
-                            ]
+                            ],
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           },
                           {
                             "id": "c3966f96e670d383",
@@ -129,7 +133,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/聚变反应截面_copy.png",
                               "width": 439,
                               "height": 229
-                            }
+                            },
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           }
                         ]
                       }
@@ -205,7 +210,8 @@
                             "id": "573e6db5481fbe6a",
                             "topic": "CNO循环"
                           }
-                        ]
+                        ],
+                        "hyperLink": "https://ebookcentral.proquest.com/lib/tsinghua/detail.action?pq-origsite=primo&docID=294604"
                       },
                       {
                         "id": "09816e4a905d9e0e",
@@ -245,7 +251,8 @@
                               }
                             ]
                           }
-                        ]
+                        ],
+                        "hyperLink": "https://catalog.hathitrust.org/Record/009223089"
                       },
                       {
                         "id": "f23d37c9b0bff0ce",
@@ -285,7 +292,8 @@
                               }
                             ]
                           }
-                        ]
+                        ],
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                       },
                       {
                         "id": "8f0cd593ffe77346",
@@ -293,7 +301,8 @@
                         "children": [
                           {
                             "id": "0805a21ebb05da3c",
-                            "topic": "轻核聚变【2】Chp 2.4.1"
+                            "topic": "轻核聚变【2】Chp 2.4.1",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           },
                           {
                             "id": "f0f2c0d9215d1ccf",
@@ -307,13 +316,15 @@
                                 "id": "60173d3041e1f89b",
                                 "topic": "n（快）+ Li7 → α + T + n - 2.47 MeV"
                               }
-                            ]
+                            ],
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           }
                         ]
                       },
                       {
                         "id": "3fbd70916d546d25",
-                        "topic": "重核反应【6】Chp 3.2"
+                        "topic": "重核反应【6】Chp 3.2",
+                        "hyperLink": "https://ebookcentral.proquest.com/lib/tsinghua/detail.action?pq-origsite=primo&docID=294604"
                       }
                     ]
                   }
@@ -322,7 +333,8 @@
                   "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/比结合能曲线_copy.png",
                   "width": 505,
                   "height": 367
-                }
+                },
+                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
               },
               {
                 "id": "65f68997a71acbd6",
@@ -339,7 +351,8 @@
                   },
                   {
                     "id": "a07d23fd3a7caa31",
-                    "topic": "核与电子库仑碰撞（轫致辐射）【2】Chp 3.5.3"
+                    "topic": "核与电子库仑碰撞（轫致辐射）【2】Chp 3.5.3",
+                    "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                   }
                 ]
               }
@@ -364,11 +377,13 @@
                           "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-聚变反应功率密度_copy.png",
                           "width": 231,
                           "height": 69
-                        }
+                        },
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                       },
                       {
                         "id": "9f3f905a3051d4e8",
-                        "topic": "辅助功率注入【2】Chp 4.4"
+                        "topic": "辅助功率注入【2】Chp 4.4",
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                       }
                     ]
                   },
@@ -387,7 +402,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-热传导功率密度_copy.png",
                               "width": 231,
                               "height": 68
-                            }
+                            },
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           },
                           {
                             "id": "584a81867a590c47",
@@ -400,7 +416,8 @@
                                   "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-L模定标率_copy.png",
                                   "width": 231,
                                   "height": 47
-                                }
+                                },
+                                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_crossref_primary_10_1080_00107514_2012_720285&search_scope=default_scope&title=Tokamaks,%204th%20edn.,%20by%20John%20Wesson%3A%20Scope%3A%20monograph.%20Level%3A%20postgraduate,%20advanced%20undergraduate,%20early%20career%20researcher,%20researcher,%20specialist,%20scientist,%20engineers&version=&frbrgroupid=cdi_FETCH-LOGICAL-c1525-ce1e83872b2b248ea63911c0718cb6b7419fb88d3630e0581a3e7993bd9189af3&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Tokamaks%204th"
                               },
                               {
                                 "id": "97523d963f84fe28",
@@ -409,9 +426,11 @@
                                   "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-H模定标率_copy.png",
                                   "width": 231,
                                   "height": 45
-                                }
+                                },
+                                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_crossref_primary_10_1080_00107514_2012_720285&search_scope=default_scope&title=Tokamaks,%204th%20edn.,%20by%20John%20Wesson%3A%20Scope%3A%20monograph.%20Level%3A%20postgraduate,%20advanced%20undergraduate,%20early%20career%20researcher,%20researcher,%20specialist,%20scientist,%20engineers&version=&frbrgroupid=cdi_FETCH-LOGICAL-c1525-ce1e83872b2b248ea63911c0718cb6b7419fb88d3630e0581a3e7993bd9189af3&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Tokamaks%204th"
                               }
-                            ]
+                            ],
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           }
                         ]
                       },
@@ -430,14 +449,16 @@
                                   "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-等效电荷_copy.png",
                                   "width": 231,
                                   "height": 44
-                                }
+                                },
+                                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                               }
                             ],
                             "image": {
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-韧致辐射功率密度_copy.png",
                               "width": 237,
                               "height": 35
-                            }
+                            },
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           },
                           {
                             "id": "8869d5990d51f43c",
@@ -446,7 +467,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-回旋辐射功率密度_copy.png",
                               "width": 228,
                               "height": 61
-                            }
+                            },
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_crossref_primary_10_1080_00107514_2012_720285&search_scope=default_scope&title=Tokamaks,%204th%20edn.,%20by%20John%20Wesson%3A%20Scope%3A%20monograph.%20Level%3A%20postgraduate,%20advanced%20undergraduate,%20early%20career%20researcher,%20researcher,%20specialist,%20scientist,%20engineers&version=&frbrgroupid=cdi_FETCH-LOGICAL-c1525-ce1e83872b2b248ea63911c0718cb6b7419fb88d3630e0581a3e7993bd9189af3&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Tokamaks%204th"
                           }
                         ]
                       },
@@ -509,7 +531,8 @@
                           "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/工作温度下限_copy.png",
                           "width": 419,
                           "height": 206
-                        }
+                        },
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                       },
                       {
                         "id": "e91b2dd4c8d156dc",
@@ -517,7 +540,8 @@
                         "children": [
                           {
                             "id": "f39a2cbd14214849",
-                            "topic": "点火条件【4】Chp 1.5"
+                            "topic": "点火条件【4】Chp 1.5",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_crossref_primary_10_1080_00107514_2012_720285&search_scope=default_scope&title=Tokamaks,%204th%20edn.,%20by%20John%20Wesson%3A%20Scope%3A%20monograph.%20Level%3A%20postgraduate,%20advanced%20undergraduate,%20early%20career%20researcher,%20researcher,%20specialist,%20scientist,%20engineers&version=&frbrgroupid=cdi_FETCH-LOGICAL-c1525-ce1e83872b2b248ea63911c0718cb6b7419fb88d3630e0581a3e7993bd9189af3&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Tokamaks%204th"
                           }
                         ]
                       }
@@ -526,7 +550,8 @@
                       "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-点火条件_copy.png",
                       "width": 204,
                       "height": 79
-                    }
+                    },
+                    "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                   },
                   {
                     "id": "b76b3ef325666815",
@@ -539,7 +564,8 @@
                       "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-物理增益因子_copy.png",
                       "width": 234,
                       "height": 41
-                    }
+                    },
+                    "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                   },
                   {
                     "id": "1d2c1a804c6e4469",
@@ -548,7 +574,8 @@
                       "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-工程增益因子_copy.png",
                       "width": 168,
                       "height": 106
-                    }
+                    },
+                    "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                   },
                   {
                     "id": "69ec86579ac7e723",
@@ -567,11 +594,14 @@
                       "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/最低加热功率_copy.png",
                       "width": 427,
                       "height": 253
-                    }
+                    },
+                    "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                   }
-                ]
+                ],
+                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
               }
-            ]
+            ],
+            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
           }
         ],
         "direction": 0
@@ -590,7 +620,8 @@
                 "children": [
                   {
                     "id": "015e0842abc71976",
-                    "topic": "准中性与集体行为【3】Chp 1.1&1.2"
+                    "topic": "准中性与集体行为【3】Chp 1.1&1.2",
+                    "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                   },
                   {
                     "id": "70a237a1d1ece591",
@@ -603,7 +634,8 @@
                           "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-德拜长度_copy.png",
                           "width": 198,
                           "height": 106
-                        }
+                        },
+                        "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                       }
                     ]
                   },
@@ -614,7 +646,8 @@
                       "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-等离子体振荡频率_copy.png",
                       "width": 208,
                       "height": 107
-                    }
+                    },
+                    "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                   },
                   {
                     "id": "ad89663adf371afa",
@@ -623,7 +656,8 @@
                       "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-等离子体参数_copy.png",
                       "width": 220,
                       "height": 55
-                    }
+                    },
+                    "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                   }
                 ]
               },
@@ -646,7 +680,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-拉莫尔半径_copy.png",
                               "width": 201,
                               "height": 100
-                            }
+                            },
+                            "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                           },
                           {
                             "id": "65a9e793e9d85fbe",
@@ -655,7 +690,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-回旋频率_copy.png",
                               "width": 172,
                               "height": 97
-                            }
+                            },
+                            "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                           },
                           {
                             "id": "ce062c1696407e0e",
@@ -664,7 +700,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-磁矩_copy.png",
                               "width": 226,
                               "height": 55
-                            }
+                            },
+                            "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                           }
                         ]
                       },
@@ -679,7 +716,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-ExB漂移_copy.png",
                               "width": 219,
                               "height": 74
-                            }
+                            },
+                            "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                           },
                           {
                             "id": "778f2043c3398c0a",
@@ -688,7 +726,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-重力漂移_copy.png",
                               "width": 218,
                               "height": 82
-                            }
+                            },
+                            "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                           },
                           {
                             "id": "421ece0c4380a3ea",
@@ -697,7 +736,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-极化漂移_copy.png",
                               "width": 226,
                               "height": 80
-                            }
+                            },
+                            "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                           },
                           {
                             "id": "e71662497b70d59e",
@@ -706,7 +746,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-磁场梯度漂移_copy.png",
                               "width": 228,
                               "height": 61
-                            }
+                            },
+                            "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                           },
                           {
                             "id": "ade7cff6ae598dd2",
@@ -715,7 +756,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-磁场曲率漂移_copy.png",
                               "width": 220,
                               "height": 66
-                            }
+                            },
+                            "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                           },
                           {
                             "id": "58a8ffa1b8da8ee6",
@@ -777,7 +819,8 @@
                                   "height": 58
                                 }
                               }
-                            ]
+                            ],
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           },
                           {
                             "id": "e4eb2b801a4568fd",
@@ -801,7 +844,8 @@
                                   "height": 67
                                 }
                               }
-                            ]
+                            ],
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           }
                         ]
                       },
@@ -816,7 +860,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-电阻率平行方向_copy.png",
                               "width": 206,
                               "height": 58
-                            }
+                            },
+                            "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                           },
                           {
                             "id": "e901f36eac0c3e20",
@@ -825,7 +870,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-库仑对数_copy.png",
                               "width": 137,
                               "height": 37
-                            }
+                            },
+                            "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                           },
                           {
                             "id": "a04f5937010e7834",
@@ -834,9 +880,11 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-电阻率垂直方向_copy.png",
                               "width": 114,
                               "height": 44
-                            }
+                            },
+                            "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                           }
-                        ]
+                        ],
+                        "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                       },
                       {
                         "id": "e533e7e5a233e2ae",
@@ -861,7 +909,8 @@
                           "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-连续性方程_copy.png",
                           "width": 158,
                           "height": 44
-                        }
+                        },
+                        "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                       },
                       {
                         "id": "b096e0cfc2a87d5e",
@@ -870,7 +919,8 @@
                           "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-动量守恒方程_copy.png",
                           "width": 209,
                           "height": 35
-                        }
+                        },
+                        "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                       },
                       {
                         "id": "d2f256da69008291",
@@ -879,7 +929,8 @@
                           "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-广义欧姆定律_copy.png",
                           "width": 305,
                           "height": 40
-                        }
+                        },
+                        "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                       },
                       {
                         "id": "05cf337eea18616c",
@@ -888,7 +939,8 @@
                           "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-能量方程_copy.png",
                           "width": 68,
                           "height": 28
-                        }
+                        },
+                        "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                       },
                       {
                         "id": "3c9681fe5f9016ea",
@@ -897,21 +949,25 @@
                           "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-麦克斯韦方程组_copy.png",
                           "width": 132,
                           "height": 206
-                        }
+                        },
+                        "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                       }
                     ]
                   },
                   {
                     "id": "3cdd1159e498740d",
-                    "topic": "磁流体平衡【3】Chp 6.2"
+                    "topic": "磁流体平衡【3】Chp 6.2",
+                    "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                   },
                   {
                     "id": "3bff932cdbe7c939",
-                    "topic": "宏观不稳定性【3】Chp 6.5-6.9"
+                    "topic": "宏观不稳定性【3】Chp 6.5-6.9",
+                    "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                   },
                   {
                     "id": "a5b5fdd05b67c68e",
-                    "topic": "约束与输运【2】Chp 14"
+                    "topic": "约束与输运【2】Chp 14",
+                    "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                   }
                 ]
               },
@@ -930,7 +986,8 @@
                           "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-朗道阻尼_copy.png",
                           "width": 114,
                           "height": 28
-                        }
+                        },
+                        "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                       },
                       {
                         "id": "a07ad780673aeb7e",
@@ -939,15 +996,18 @@
                           "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-回旋阻尼_copy.png",
                           "width": 145,
                           "height": 27
-                        }
+                        },
+                        "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                       }
-                    ]
+                    ],
+                    "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                   },
                   {
                     "id": "e8b2efa3e76c61b3",
                     "topic": "微观不稳定性【3】Chp 6.5.4【5】"
                   }
-                ]
+                ],
+                "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
               }
             ]
           },
@@ -980,7 +1040,8 @@
                           "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-比压_copy.png",
                           "width": 127,
                           "height": 54
-                        }
+                        },
+                        "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                       },
                       {
                         "id": "4c3c731d5d963932",
@@ -989,11 +1050,13 @@
                           "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-磁流体平衡_copy.png",
                           "width": 140,
                           "height": 45
-                        }
+                        },
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                       },
                       {
                         "id": "276de6b25a7ccfc3",
-                        "topic": "不稳定性【2】Chp 12"
+                        "topic": "不稳定性【2】Chp 12",
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                       }
                     ]
                   },
@@ -1012,7 +1075,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-磁镜比_copy.png",
                               "width": 154,
                               "height": 34
-                            }
+                            },
+                            "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                           },
                           {
                             "id": "766f1ea024553367",
@@ -1021,18 +1085,21 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-损失锥_copy.png",
                               "width": 106,
                               "height": 27
-                            }
+                            },
+                            "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                           }
                         ],
                         "image": {
                           "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/磁镜_copy.png",
                           "width": 252,
                           "height": 131
-                        }
+                        },
+                        "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                       },
                       {
                         "id": "5c313720010cbc56",
-                        "topic": "最小场/会切场【3】Chp 2.8.1"
+                        "topic": "最小场/会切场【3】Chp 2.8.1",
+                        "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                       }
                     ]
                   },
@@ -1051,7 +1118,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/θ箍缩_copy.png",
                               "width": 262,
                               "height": 155
-                            }
+                            },
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           },
                           {
                             "id": "b3ccece1409d0e57",
@@ -1060,7 +1128,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/Z箍缩_copy.png",
                               "width": 241,
                               "height": 156
-                            }
+                            },
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           }
                         ]
                       },
@@ -1070,7 +1139,8 @@
                         "children": [
                           {
                             "id": "c98cd8c9ea8cedc7",
-                            "topic": "螺旋箍缩【2】Chp 12.8"
+                            "topic": "螺旋箍缩【2】Chp 12.8",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           },
                           {
                             "id": "5cc257382227abc5",
@@ -1079,7 +1149,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/反场箍缩_copy.png",
                               "width": 396,
                               "height": 296
-                            }
+                            },
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           }
                         ]
                       }
@@ -1123,7 +1194,8 @@
                               "height": 269
                             }
                           }
-                        ]
+                        ],
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                       },
                       {
                         "id": "d0c8d62c0eae1f83",
@@ -1161,7 +1233,8 @@
                                   }
                                 ]
                               }
-                            ]
+                            ],
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           },
                           {
                             "id": "57d58bfad2f7ca7d",
@@ -1174,13 +1247,16 @@
                                   "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-安全因子_copy.png",
                                   "width": 127,
                                   "height": 40
-                                }
+                                },
+                                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                               },
                               {
                                 "id": "378f613b2bea9dbe",
-                                "topic": "非圆形截面【2】Chp 13.7.4"
+                                "topic": "非圆形截面【2】Chp 13.7.4",
+                                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                               }
-                            ]
+                            ],
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           },
                           {
                             "id": "1602dbd61e3e2475",
@@ -1188,7 +1264,8 @@
                             "children": [
                               {
                                 "id": "cce7abf688c9db20",
-                                "topic": "欧姆加热【4】Chp 5.2"
+                                "topic": "欧姆加热【4】Chp 5.2",
+                                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_crossref_primary_10_1080_00107514_2012_720285&search_scope=default_scope&title=Tokamaks,%204th%20edn.,%20by%20John%20Wesson%3A%20Scope%3A%20monograph.%20Level%3A%20postgraduate,%20advanced%20undergraduate,%20early%20career%20researcher,%20researcher,%20specialist,%20scientist,%20engineers&version=&frbrgroupid=cdi_FETCH-LOGICAL-c1525-ce1e83872b2b248ea63911c0718cb6b7419fb88d3630e0581a3e7993bd9189af3&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Tokamaks%204th"
                               },
                               {
                                 "id": "d42ec40a6f54f7e4",
@@ -1196,11 +1273,13 @@
                                 "children": [
                                   {
                                     "id": "338505d5bff83e39",
-                                    "topic": "波加热【4】Chp 5.6"
+                                    "topic": "波加热【4】Chp 5.6",
+                                    "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_crossref_primary_10_1080_00107514_2012_720285&search_scope=default_scope&title=Tokamaks,%204th%20edn.,%20by%20John%20Wesson%3A%20Scope%3A%20monograph.%20Level%3A%20postgraduate,%20advanced%20undergraduate,%20early%20career%20researcher,%20researcher,%20specialist,%20scientist,%20engineers&version=&frbrgroupid=cdi_FETCH-LOGICAL-c1525-ce1e83872b2b248ea63911c0718cb6b7419fb88d3630e0581a3e7993bd9189af3&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Tokamaks%204th"
                                   },
                                   {
                                     "id": "879aca0595661e0f",
-                                    "topic": "中性束加热【4】Chp 5.4"
+                                    "topic": "中性束加热【4】Chp 5.4",
+                                    "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_crossref_primary_10_1080_00107514_2012_720285&search_scope=default_scope&title=Tokamaks,%204th%20edn.,%20by%20John%20Wesson%3A%20Scope%3A%20monograph.%20Level%3A%20postgraduate,%20advanced%20undergraduate,%20early%20career%20researcher,%20researcher,%20specialist,%20scientist,%20engineers&version=&frbrgroupid=cdi_FETCH-LOGICAL-c1525-ce1e83872b2b248ea63911c0718cb6b7419fb88d3630e0581a3e7993bd9189af3&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Tokamaks%204th"
                                   },
                                   {
                                     "id": "b7514f27306ba87f",
@@ -1213,11 +1292,13 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/等离子体温度_copy.png",
                               "width": 316,
                               "height": 207
-                            }
+                            },
+                            "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                           },
                           {
                             "id": "26b491afad83ab82",
-                            "topic": "等离子体电流驱动【4】Chp 3.14"
+                            "topic": "等离子体电流驱动【4】Chp 3.14",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_crossref_primary_10_1080_00107514_2012_720285&search_scope=default_scope&title=Tokamaks,%204th%20edn.,%20by%20John%20Wesson%3A%20Scope%3A%20monograph.%20Level%3A%20postgraduate,%20advanced%20undergraduate,%20early%20career%20researcher,%20researcher,%20specialist,%20scientist,%20engineers&version=&frbrgroupid=cdi_FETCH-LOGICAL-c1525-ce1e83872b2b248ea63911c0718cb6b7419fb88d3630e0581a3e7993bd9189af3&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Tokamaks%204th"
                           },
                           {
                             "id": "02c53c14bfaac091",
@@ -1230,7 +1311,8 @@
                                   "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-密度极限_copy.png",
                                   "width": 132,
                                   "height": 68
-                                }
+                                },
+                                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_crossref_primary_10_1080_00107514_2012_720285&search_scope=default_scope&title=Tokamaks,%204th%20edn.,%20by%20John%20Wesson%3A%20Scope%3A%20monograph.%20Level%3A%20postgraduate,%20advanced%20undergraduate,%20early%20career%20researcher,%20researcher,%20specialist,%20scientist,%20engineers&version=&frbrgroupid=cdi_FETCH-LOGICAL-c1525-ce1e83872b2b248ea63911c0718cb6b7419fb88d3630e0581a3e7993bd9189af3&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Tokamaks%204th"
                               },
                               {
                                 "id": "5a23dae6f662b1c9",
@@ -1239,9 +1321,11 @@
                                   "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-比压极限_copy.png",
                                   "width": 165,
                                   "height": 69
-                                }
+                                },
+                                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_crossref_primary_10_1080_00107514_2012_720285&search_scope=default_scope&title=Tokamaks,%204th%20edn.,%20by%20John%20Wesson%3A%20Scope%3A%20monograph.%20Level%3A%20postgraduate,%20advanced%20undergraduate,%20early%20career%20researcher,%20researcher,%20specialist,%20scientist,%20engineers&version=&frbrgroupid=cdi_FETCH-LOGICAL-c1525-ce1e83872b2b248ea63911c0718cb6b7419fb88d3630e0581a3e7993bd9189af3&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Tokamaks%204th"
                               }
-                            ]
+                            ],
+                            "hyperLink": "https://link.springer.com/book/10.1007/978-3-319-22309-4"
                           },
                           {
                             "id": "892973c310f5cf7e",
@@ -1254,7 +1338,8 @@
                                   "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-经典输运_copy.png",
                                   "width": 197,
                                   "height": 73
-                                }
+                                },
+                                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_crossref_primary_10_1080_00107514_2012_720285&search_scope=default_scope&title=Tokamaks,%204th%20edn.,%20by%20John%20Wesson%3A%20Scope%3A%20monograph.%20Level%3A%20postgraduate,%20advanced%20undergraduate,%20early%20career%20researcher,%20researcher,%20specialist,%20scientist,%20engineers&version=&frbrgroupid=cdi_FETCH-LOGICAL-c1525-ce1e83872b2b248ea63911c0718cb6b7419fb88d3630e0581a3e7993bd9189af3&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Tokamaks%204th"
                               },
                               {
                                 "id": "58f13b8cbb73dbed",
@@ -1267,7 +1352,8 @@
                                       "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-俘获粒子份额_copy.png",
                                       "width": 131,
                                       "height": 90
-                                    }
+                                    },
+                                    "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_crossref_primary_10_1080_00107514_2012_720285&search_scope=default_scope&title=Tokamaks,%204th%20edn.,%20by%20John%20Wesson%3A%20Scope%3A%20monograph.%20Level%3A%20postgraduate,%20advanced%20undergraduate,%20early%20career%20researcher,%20researcher,%20specialist,%20scientist,%20engineers&version=&frbrgroupid=cdi_FETCH-LOGICAL-c1525-ce1e83872b2b248ea63911c0718cb6b7419fb88d3630e0581a3e7993bd9189af3&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Tokamaks%204th"
                                   },
                                   {
                                     "id": "21925647554be228",
@@ -1283,7 +1369,8 @@
                                   "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-新经典输运_copy.png",
                                   "width": 179,
                                   "height": 23
-                                }
+                                },
+                                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_crossref_primary_10_1080_00107514_2012_720285&search_scope=default_scope&title=Tokamaks,%204th%20edn.,%20by%20John%20Wesson%3A%20Scope%3A%20monograph.%20Level%3A%20postgraduate,%20advanced%20undergraduate,%20early%20career%20researcher,%20researcher,%20specialist,%20scientist,%20engineers&version=&frbrgroupid=cdi_FETCH-LOGICAL-c1525-ce1e83872b2b248ea63911c0718cb6b7419fb88d3630e0581a3e7993bd9189af3&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Tokamaks%204th"
                               },
                               {
                                 "id": "1a22b57ae0fbc506",
@@ -1291,9 +1378,11 @@
                                 "children": [
                                   {
                                     "id": "fac5450e46d1bb9f",
-                                    "topic": "湍流输运【4】Chp 4.18"
+                                    "topic": "湍流输运【4】Chp 4.18",
+                                    "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_crossref_primary_10_1080_00107514_2012_720285&search_scope=default_scope&title=Tokamaks,%204th%20edn.,%20by%20John%20Wesson%3A%20Scope%3A%20monograph.%20Level%3A%20postgraduate,%20advanced%20undergraduate,%20early%20career%20researcher,%20researcher,%20specialist,%20scientist,%20engineers&version=&frbrgroupid=cdi_FETCH-LOGICAL-c1525-ce1e83872b2b248ea63911c0718cb6b7419fb88d3630e0581a3e7993bd9189af3&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Tokamaks%204th"
                                   }
-                                ]
+                                ],
+                                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_crossref_primary_10_1080_00107514_2012_720285&search_scope=default_scope&title=Tokamaks,%204th%20edn.,%20by%20John%20Wesson%3A%20Scope%3A%20monograph.%20Level%3A%20postgraduate,%20advanced%20undergraduate,%20early%20career%20researcher,%20researcher,%20specialist,%20scientist,%20engineers&version=&frbrgroupid=cdi_FETCH-LOGICAL-c1525-ce1e83872b2b248ea63911c0718cb6b7419fb88d3630e0581a3e7993bd9189af3&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Tokamaks%204th"
                               },
                               {
                                 "id": "27ee484926f00dd4",
@@ -1302,13 +1391,15 @@
                                   "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-H模经验定标率_copy.png",
                                   "width": 406,
                                   "height": 35
-                                }
+                                },
+                                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_crossref_primary_10_1080_00107514_2012_720285&search_scope=default_scope&title=Tokamaks,%204th%20edn.,%20by%20John%20Wesson%3A%20Scope%3A%20monograph.%20Level%3A%20postgraduate,%20advanced%20undergraduate,%20early%20career%20researcher,%20researcher,%20specialist,%20scientist,%20engineers&version=&frbrgroupid=cdi_FETCH-LOGICAL-c1525-ce1e83872b2b248ea63911c0718cb6b7419fb88d3630e0581a3e7993bd9189af3&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Tokamaks%204th"
                               }
                             ]
                           },
                           {
                             "id": "6e23b03331a686c4",
-                            "topic": "规模与参数【2】Chp 5.5"
+                            "topic": "规模与参数【2】Chp 5.5",
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           }
                         ],
                         "image": {
@@ -1324,7 +1415,8 @@
                           "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/球形托卡马克_copy.png",
                           "width": 374,
                           "height": 217
-                        }
+                        },
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                       },
                       {
                         "id": "954637f6651ada62",
@@ -1337,7 +1429,8 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/球马克_copy.png",
                               "width": 206,
                               "height": 190
-                            }
+                            },
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           },
                           {
                             "id": "2c95967ed2c51956",
@@ -1346,13 +1439,15 @@
                               "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/场反位形_copy.png",
                               "width": 280,
                               "height": 197
-                            }
+                            },
+                            "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                           }
                         ]
                       },
                       {
                         "id": "0db432e3e9398960",
-                        "topic": "悬浮偶极场【2】Chp 13.2"
+                        "topic": "悬浮偶极场【2】Chp 13.2",
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                       }
                     ]
                   }
@@ -1388,7 +1483,8 @@
                           "height": 48
                         }
                       }
-                    ]
+                    ],
+                    "hyperLink": "https://ebookcentral.proquest.com/lib/tsinghua/detail.action?pq-origsite=primo&docID=294604"
                   },
                   {
                     "id": "ed14c0d8376fc8d3",
@@ -1418,7 +1514,8 @@
                           },
                           {
                             "id": "71aaa71fe35c66f7",
-                            "topic": "点火方式【7】"
+                            "topic": "点火方式【7】",
+                            "hyperLink": "https://iopscience.iop.org/article/10.1088/1742-6596/112/1/012001"
                           }
                         ],
                         "image": {
@@ -1435,7 +1532,8 @@
                         "id": "1b928c238bd5efa7",
                         "topic": "轻/重离子束聚变"
                       }
-                    ]
+                    ],
+                    "hyperLink": "https://ebookcentral.proquest.com/lib/tsinghua/detail.action?pq-origsite=primo&docID=294604"
                   },
                   {
                     "id": "d4dac6c7cedd4d16",
@@ -1465,7 +1563,8 @@
                   },
                   {
                     "id": "f2bf84b545871f06",
-                    "topic": "F-3.2.4.5 μ子聚变【6】Chp 8.3"
+                    "topic": "F-3.2.4.5 μ子聚变【6】Chp 8.3",
+                    "hyperLink": "https://ebookcentral.proquest.com/lib/tsinghua/detail.action?pq-origsite=primo&docID=294604"
                   }
                 ]
               }
@@ -1502,7 +1601,8 @@
                         "id": "2c28de997cc6b86f",
                         "topic": "放射性屏蔽"
                       }
-                    ]
+                    ],
+                    "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                   },
                   {
                     "id": "92083565027f1089",
@@ -1578,13 +1678,15 @@
                       },
                       {
                         "id": "502c05864e5de295",
-                        "topic": "结构材料【2】Chp 5.4.2"
+                        "topic": "结构材料【2】Chp 5.4.2",
+                        "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                       },
                       {
                         "id": "3ccc530a240cd32e",
                         "topic": "辐射屏蔽"
                       }
-                    ]
+                    ],
+                    "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                   },
                   {
                     "id": "64821791593ee270",
@@ -1598,7 +1700,8 @@
                 "children": [
                   {
                     "id": "6b31f5d86cfbe8a6",
-                    "topic": "超导磁体【2】Chp 5.4.2"
+                    "topic": "超导磁体【2】Chp 5.4.2",
+                    "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                   },
                   {
                     "id": "4f6b69c4f8e1b09b",
@@ -1607,9 +1710,11 @@
                       "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/公式-环向磁场_copy.png",
                       "width": 256,
                       "height": 69
-                    }
+                    },
+                    "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
                   }
-                ]
+                ],
+                "hyperLink": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=TN_cdi_proquest_miscellaneous_34903916&search_scope=default_scope&title=Plasma%20Physics%20and%20Fusion%20Energy,%20by%20J.%20Freidberg&version=&frbrgroupid=cdi_FETCH-LOGICAL-p744-74049a0b64392ba179d7ad3d6e0fcc5895238a9c3b6cded4b23fb85696797cd23&context=PC&adaptor=primo_central_multiple_fe&query=any,contains,Plasma%20Physics%20and%20Fusion%20Energy%20"
               },
               {
                 "id": "cfc0a01c0082393e",
@@ -1651,7 +1756,8 @@
                             "id": "414115a4242f55cf",
                             "topic": "外循环"
                           }
-                        ]
+                        ],
+                        "hyperLink": "https://catalog.hathitrust.org/Record/009223089"
                       }
                     ]
                   },
